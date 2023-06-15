@@ -1,0 +1,29 @@
+2023-06-02 06:44:50,841 [MainThread  ] [INFO ]  Starting main function
+2023-06-02 06:44:50,841 [MainThread  ] [INFO ]  Parameters:
+2023-06-02 06:44:50,841 [MainThread  ] [INFO ]   SoccerNet_path : /raid/data/m13519177/ibnuhafizh/Data/
+2023-06-02 06:44:50,841 [MainThread  ] [INFO ]         features : ResNET_TF2.npy
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]       max_epochs : 1000
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]     load_weights : None
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]       model_name : NetVLAD++
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]        test_only : False
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]      split_train : ['train']
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]      split_valid : ['valid']
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]       split_test : ['test']
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]          version : 2
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]      feature_dim : None
+2023-06-02 06:44:50,842 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]        framerate : 2
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]      window_size : 15
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]             pool : NetVLAD++
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]       vocab_size : 64
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]       NMS_window : 30
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]    NMS_threshold : 0.0
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]       batch_size : 256
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]               LR : 0.001
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]              LRe : 1e-06
+2023-06-02 06:44:50,843 [MainThread  ] [INFO ]         patience : 10
+2023-06-02 06:44:50,844 [MainThread  ] [INFO ]              GPU : 3
+2023-06-02 06:44:50,844 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-06-02 06:44:50,844 [MainThread  ] [INFO ]             seed : 0
+2023-06-02 06:44:50,844 [MainThread  ] [INFO ]         loglevel : INFO
+2023-06-02 06:44:50,845 [MainThread  ] [INFO ]  Checking/Download features and labels locally
