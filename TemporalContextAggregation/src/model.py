@@ -47,7 +47,7 @@ class Model(nn.Module):
             self.pool_layer = nn.AvgPool1d(self.window_size_frame, stride=1)
             self.fc = nn.Linear(input_size, self.num_classes+1)
 
-        if self.pool == "AVG++":
+        if self.pool == "TCA_AVG":
             self.pool_layer_before = nn.AvgPool1d(int(self.window_size_frame/2), stride=1)
             self.pool_layer_after = nn.AvgPool1d(int(self.window_size_frame/2), stride=1)
             self.fc = nn.Linear(2*input_size, self.num_classes+1)
@@ -106,7 +106,7 @@ class Model(nn.Module):
         if self.pool == "MAX" or self.pool == "AVG":
             inputs_pooled = self.pool_layer(inputs.permute((0, 2, 1))).squeeze(-1)
 
-        elif self.pool == "MAX++" or self.pool == "AVG++":
+        elif self.pool == "TCA_MAX" or self.pool == "TCA_AVG":
             nb_frames_50 = int(inputs.shape[1]/2)    
             input_before = inputs[:, :nb_frames_50, :]        
             input_after = inputs[:, nb_frames_50:, :]  
@@ -118,7 +118,7 @@ class Model(nn.Module):
         elif self.pool == "NetVLAD" or self.pool == "NetRVLAD":
             inputs_pooled = self.pool_layer(inputs)
 
-        elif self.pool == "NetVLAD++" or self.pool == "NetRVLAD++":
+        elif self.pool == "TCA" or self.pool == "TCA_NetRVLAD":
             nb_frames_50 = int(inputs.shape[1]/2)
             inputs_before_pooled = self.pool_layer_before(inputs[:, :nb_frames_50, :])
             inputs_after_pooled = self.pool_layer_after(inputs[:, nb_frames_50:, :])
@@ -136,7 +136,7 @@ if __name__ == "__main__":
     T = 15
     framerate= 2
     D = 512
-    pool = "NetRVLAD++"
+    pool = "TCA_NetRVLAD"
     model = Model(pool=pool, input_size=D, framerate=framerate, window_size=T)
     print(model)
     inp = torch.rand([BS,T*framerate,D])
