@@ -12,7 +12,7 @@ from netvlad import NetVLAD, NetRVLAD
 
 
 class Model(nn.Module):
-    def __init__(self, weights=None, input_size=512, num_classes=17, vocab_size=64, window_size=15, framerate=2, pool="NetVLAD"):
+    def __init__(self, weights=None, input_size=512, num_classes=17, vlad_cluster=64, window_size=15, framerate=2, pool="TCA"):
         """
         INPUT: a Tensor of shape (batch_size,window_size,feature_size)
         OUTPUTS: a Tensor of shape (batch_size,num_classes+1)
@@ -25,7 +25,7 @@ class Model(nn.Module):
         self.num_classes = num_classes
         self.framerate = framerate
         self.pool = pool
-        self.vlad_k = vocab_size
+        self.vlad_k = vlad_cluster
         
         # are feature alread PCA'ed?
         if not self.input_size == 512:   
@@ -37,7 +37,7 @@ class Model(nn.Module):
             self.pool_layer = nn.MaxPool1d(self.window_size_frame, stride=1)
             self.fc = nn.Linear(input_size, self.num_classes+1)
 
-        if self.pool == "MAX++":
+        if self.pool == "TCA_MAX":
             self.pool_layer_before = nn.MaxPool1d(int(self.window_size_frame/2), stride=1)
             self.pool_layer_after = nn.MaxPool1d(int(self.window_size_frame/2), stride=1)
             self.fc = nn.Linear(2*input_size, self.num_classes+1)
@@ -47,7 +47,7 @@ class Model(nn.Module):
             self.pool_layer = nn.AvgPool1d(self.window_size_frame, stride=1)
             self.fc = nn.Linear(input_size, self.num_classes+1)
 
-        if self.pool == "AVG++":
+        if self.pool == "TCA_AVG":
             self.pool_layer_before = nn.AvgPool1d(int(self.window_size_frame/2), stride=1)
             self.pool_layer_after = nn.AvgPool1d(int(self.window_size_frame/2), stride=1)
             self.fc = nn.Linear(2*input_size, self.num_classes+1)
@@ -58,7 +58,7 @@ class Model(nn.Module):
                                             add_batch_norm=True)
             self.fc = nn.Linear(input_size*self.vlad_k, self.num_classes+1)
 
-        elif self.pool == "NetVLAD++":
+        elif self.pool == "TCA":
             self.pool_layer_before = NetVLAD(cluster_size=int(self.vlad_k/2), feature_size=self.input_size,
                                             add_batch_norm=True)
             self.pool_layer_after = NetVLAD(cluster_size=int(self.vlad_k/2), feature_size=self.input_size,
@@ -72,7 +72,7 @@ class Model(nn.Module):
                                             add_batch_norm=True)
             self.fc = nn.Linear(input_size*self.vlad_k, self.num_classes+1)
 
-        elif self.pool == "NetRVLAD++":
+        elif self.pool == "TCA_NetRVLAD":
             self.pool_layer_before = NetRVLAD(cluster_size=int(self.vlad_k/2), feature_size=self.input_size,
                                             add_batch_norm=True)
             self.pool_layer_after = NetRVLAD(cluster_size=int(self.vlad_k/2), feature_size=self.input_size,
@@ -106,7 +106,7 @@ class Model(nn.Module):
         if self.pool == "MAX" or self.pool == "AVG":
             inputs_pooled = self.pool_layer(inputs.permute((0, 2, 1))).squeeze(-1)
 
-        elif self.pool == "MAX++" or self.pool == "AVG++":
+        elif self.pool == "TCA_MAX" or self.pool == "TCA_AVG":
             nb_frames_50 = int(inputs.shape[1]/2)    
             input_before = inputs[:, :nb_frames_50, :]        
             input_after = inputs[:, nb_frames_50:, :]  
@@ -118,7 +118,7 @@ class Model(nn.Module):
         elif self.pool == "NetVLAD" or self.pool == "NetRVLAD":
             inputs_pooled = self.pool_layer(inputs)
 
-        elif self.pool == "NetVLAD++" or self.pool == "NetRVLAD++":
+        elif self.pool == "TCA" or self.pool == "TCA_NetRVLAD":
             nb_frames_50 = int(inputs.shape[1]/2)
             inputs_before_pooled = self.pool_layer_before(inputs[:, :nb_frames_50, :])
             inputs_after_pooled = self.pool_layer_after(inputs[:, nb_frames_50:, :])
@@ -136,7 +136,7 @@ if __name__ == "__main__":
     T = 15
     framerate= 2
     D = 512
-    pool = "NetRVLAD++"
+    pool = "TCA_NetRVLAD"
     model = Model(pool=pool, input_size=D, framerate=framerate, window_size=T)
     print(model)
     inp = torch.rand([BS,T*framerate,D])

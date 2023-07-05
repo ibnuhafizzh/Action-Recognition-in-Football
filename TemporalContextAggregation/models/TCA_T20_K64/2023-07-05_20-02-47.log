@@ -1,0 +1,52 @@
+2023-07-05 20:02:47,730 [MainThread  ] [INFO ]  Starting main function
+2023-07-05 20:02:47,730 [MainThread  ] [INFO ]  Parameters:
+2023-07-05 20:02:47,730 [MainThread  ] [INFO ]       video_path : /Users/ibnuhafizh/Documents/ITB/TA/test/PersibPersija110123.mp4
+2023-07-05 20:02:47,730 [MainThread  ] [INFO ]         features : ResNET_TF2_PCA512.npy
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]       max_epochs : 1000
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]     load_weights : None
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]       model_name : TCA_T20_K64
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]        test_only : False
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]      split_train : ['train']
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]      split_valid : ['valid']
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]       split_test : ['test']
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]          version : 2
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]      feature_dim : None
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]        framerate : 2
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]      window_size : 20
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]             pool : TCA
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]     vlad_cluster : 64
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]       NMS_window : 30
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]    NMS_threshold : 0.0
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]       batch_size : 256
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]               LR : 0.001
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]              LRe : 1e-06
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]         patience : 10
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]              GPU : 3
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]             seed : 0
+2023-07-05 20:02:47,731 [MainThread  ] [INFO ]         loglevel : INFO
+2023-07-05 20:14:33,951 [MainThread  ] [INFO ]  extracting features for video inference/outputs/videoHQ.mkv
+2023-07-05 20:16:19,757 [MainThread  ] [INFO ]  frames (6012, 224, 224, 3), fps=1.9997871151440962
+2023-07-05 20:18:23,018 [MainThread  ] [INFO ]  features (6012, 2048), fps=1.9997871151440962
+2023-07-05 20:18:23,161 [MainThread  ] [WARNI]  /Users/ibnuhafizh/opt/anaconda3/envs/CALF-pytorch/lib/python3.8/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator PCA from version 0.23.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-05 20:18:23,162 [MainThread  ] [INFO ]  reducing features inference/outputs/features.npy
+2023-07-05 20:18:23,449 [MainThread  ] [INFO ]  Model(
+  (pool_layer_before): NetVLAD()
+  (pool_layer_after): NetVLAD()
+  (fc): Linear(in_features=32768, out_features=18, bias=True)
+  (drop): Dropout(p=0.4, inplace=False)
+  (sigm): Sigmoid()
+)
+2023-07-05 20:18:23,449 [MainThread  ] [INFO ]  Total number of parameters: 655378
+2023-07-05 20:29:35,626 [MainThread  ] [INFO ]  extracting features for video inference/outputs/videoHQ.mkv
+2023-07-05 20:31:36,150 [MainThread  ] [INFO ]  frames (6012, 224, 224, 3), fps=1.9997871151440962
+2023-07-05 20:33:44,046 [MainThread  ] [INFO ]  features (6012, 2048), fps=1.9997871151440962
+2023-07-05 20:33:44,201 [MainThread  ] [WARNI]  /Users/ibnuhafizh/opt/anaconda3/envs/CALF-pytorch/lib/python3.8/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator PCA from version 0.23.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-05 20:33:44,202 [MainThread  ] [INFO ]  reducing features inference/outputs/features.npy
