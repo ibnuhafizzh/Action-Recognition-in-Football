@@ -1,0 +1,5115 @@
+{
+    "UrlLocal": "france_ligue-1/2016-2017/2016-11-30 - 23-00 Paris SG 2 - 0 Angers",
+    "predictions": [
+        {
+            "gameTime": "1 - 0:1",
+            "label": "Kick-off",
+            "position": "1000",
+            "half": "1",
+            "confidence": "0.992124617099762"
+        },
+        {
+            "gameTime": "1 - 20:45",
+            "label": "Kick-off",
+            "position": "1245500",
+            "half": "1",
+            "confidence": "0.8602133393287659"
+        },
+        {
+            "gameTime": "1 - 34:53",
+            "label": "Kick-off",
+            "position": "2093000",
+            "half": "1",
+            "confidence": "0.7853474020957947"
+        },
+        {
+            "gameTime": "1 - 16:47",
+            "label": "Kick-off",
+            "position": "1007000",
+            "half": "1",
+            "confidence": "0.6518316268920898"
+        },
+        {
+            "gameTime": "1 - 3:49",
+            "label": "Kick-off",
+            "position": "229000",
+            "half": "1",
+            "confidence": "0.5707157254219055"
+        },
+        {
+            "gameTime": "1 - 13:49",
+            "label": "Kick-off",
+            "position": "829500",
+            "half": "1",
+            "confidence": "0.3146305978298187"
+        },
+        {
+            "gameTime": "1 - 0:16",
+            "label": "Kick-off",
+            "position": "16000",
+            "half": "1",
+            "confidence": "0.3095151484012604"
+        },
+        {
+            "gameTime": "1 - 34:24",
+            "label": "Kick-off",
+            "position": "2064000",
+            "half": "1",
+            "confidence": "0.2520473301410675"
+        },
+        {
+            "gameTime": "1 - 26:12",
+            "label": "Kick-off",
+            "position": "1572000",
+            "half": "1",
+            "confidence": "0.20846839249134064"
+        },
+        {
+            "gameTime": "1 - 11:46",
+            "label": "Kick-off",
+            "position": "706000",
+            "half": "1",
+            "confidence": "0.10694242268800735"
+        },
+        {
+            "gameTime": "1 - 33:49",
+            "label": "Goal",
+            "position": "2029500",
+            "half": "1",
+            "confidence": "0.9871276617050171"
+        },
+        {
+            "gameTime": "1 - 27:36",
+            "label": "Goal",
+            "position": "1656000",
+            "half": "1",
+            "confidence": "0.31674477458000183"
+        },
+        {
+            "gameTime": "1 - 17:50",
+            "label": "Goal",
+            "position": "1070500",
+            "half": "1",
+            "confidence": "0.19772690534591675"
+        },
+        {
+            "gameTime": "1 - 25:45",
+            "label": "Goal",
+            "position": "1545000",
+            "half": "1",
+            "confidence": "0.13664405047893524"
+        },
+        {
+            "gameTime": "1 - 10:45",
+            "label": "Goal",
+            "position": "645000",
+            "half": "1",
+            "confidence": "0.12004990130662918"
+        },
+        {
+            "gameTime": "1 - 38:24",
+            "label": "Goal",
+            "position": "2304500",
+            "half": "1",
+            "confidence": "0.11875341087579727"
+        },
+        {
+            "gameTime": "1 - 26:49",
+            "label": "Goal",
+            "position": "1609500",
+            "half": "1",
+            "confidence": "0.11488945782184601"
+        },
+        {
+            "gameTime": "1 - 13:24",
+            "label": "Goal",
+            "position": "804000",
+            "half": "1",
+            "confidence": "0.11201922595500946"
+        },
+        {
+            "gameTime": "1 - 24:20",
+            "label": "Goal",
+            "position": "1460000",
+            "half": "1",
+            "confidence": "0.10303345322608948"
+        },
+        {
+            "gameTime": "1 - 34:44",
+            "label": "Substitution",
+            "position": "2084500",
+            "half": "1",
+            "confidence": "0.2656558156013489"
+        },
+        {
+            "gameTime": "1 - 31:17",
+            "label": "Substitution",
+            "position": "1877000",
+            "half": "1",
+            "confidence": "0.20809495449066162"
+        },
+        {
+            "gameTime": "1 - 15:5",
+            "label": "Offside",
+            "position": "905000",
+            "half": "1",
+            "confidence": "0.9874722361564636"
+        },
+        {
+            "gameTime": "1 - 11:27",
+            "label": "Offside",
+            "position": "687000",
+            "half": "1",
+            "confidence": "0.7335625886917114"
+        },
+        {
+            "gameTime": "1 - 41:55",
+            "label": "Offside",
+            "position": "2515000",
+            "half": "1",
+            "confidence": "0.6369741559028625"
+        },
+        {
+            "gameTime": "1 - 23:46",
+            "label": "Offside",
+            "position": "1426500",
+            "half": "1",
+            "confidence": "0.6102131009101868"
+        },
+        {
+            "gameTime": "1 - 4:44",
+            "label": "Offside",
+            "position": "284500",
+            "half": "1",
+            "confidence": "0.5217861533164978"
+        },
+        {
+            "gameTime": "1 - 28:51",
+            "label": "Offside",
+            "position": "1731000",
+            "half": "1",
+            "confidence": "0.4313217103481293"
+        },
+        {
+            "gameTime": "1 - 36:27",
+            "label": "Offside",
+            "position": "2187500",
+            "half": "1",
+            "confidence": "0.1817254275083542"
+        },
+        {
+            "gameTime": "1 - 21:22",
+            "label": "Offside",
+            "position": "1282000",
+            "half": "1",
+            "confidence": "0.16792422533035278"
+        },
+        {
+            "gameTime": "1 - 22:3",
+            "label": "Offside",
+            "position": "1323000",
+            "half": "1",
+            "confidence": "0.138103649020195"
+        },
+        {
+            "gameTime": "1 - 13:31",
+            "label": "Offside",
+            "position": "811000",
+            "half": "1",
+            "confidence": "0.12429473549127579"
+        },
+        {
+            "gameTime": "1 - 32:17",
+            "label": "Offside",
+            "position": "1937500",
+            "half": "1",
+            "confidence": "0.10836800932884216"
+        },
+        {
+            "gameTime": "1 - 33:49",
+            "label": "Shots on target",
+            "position": "2029000",
+            "half": "1",
+            "confidence": "0.7931978106498718"
+        },
+        {
+            "gameTime": "1 - 40:24",
+            "label": "Shots on target",
+            "position": "2424000",
+            "half": "1",
+            "confidence": "0.4920501112937927"
+        },
+        {
+            "gameTime": "1 - 25:43",
+            "label": "Shots on target",
+            "position": "1543000",
+            "half": "1",
+            "confidence": "0.42831310629844666"
+        },
+        {
+            "gameTime": "1 - 14:19",
+            "label": "Shots on target",
+            "position": "859000",
+            "half": "1",
+            "confidence": "0.36597734689712524"
+        },
+        {
+            "gameTime": "1 - 13:27",
+            "label": "Shots on target",
+            "position": "807000",
+            "half": "1",
+            "confidence": "0.3356391191482544"
+        },
+        {
+            "gameTime": "1 - 27:35",
+            "label": "Shots on target",
+            "position": "1655000",
+            "half": "1",
+            "confidence": "0.3269117474555969"
+        },
+        {
+            "gameTime": "1 - 30:51",
+            "label": "Shots on target",
+            "position": "1851500",
+            "half": "1",
+            "confidence": "0.2853687107563019"
+        },
+        {
+            "gameTime": "1 - 32:18",
+            "label": "Shots on target",
+            "position": "1938000",
+            "half": "1",
+            "confidence": "0.22453130781650543"
+        },
+        {
+            "gameTime": "1 - 10:51",
+            "label": "Shots on target",
+            "position": "651000",
+            "half": "1",
+            "confidence": "0.20523442327976227"
+        },
+        {
+            "gameTime": "1 - 17:46",
+            "label": "Shots on target",
+            "position": "1066500",
+            "half": "1",
+            "confidence": "0.18929967284202576"
+        },
+        {
+            "gameTime": "1 - 3:34",
+            "label": "Shots on target",
+            "position": "214000",
+            "half": "1",
+            "confidence": "0.17707793414592743"
+        },
+        {
+            "gameTime": "1 - 29:49",
+            "label": "Shots on target",
+            "position": "1789500",
+            "half": "1",
+            "confidence": "0.14559268951416016"
+        },
+        {
+            "gameTime": "1 - 44:0",
+            "label": "Shots on target",
+            "position": "2640500",
+            "half": "1",
+            "confidence": "0.136405810713768"
+        },
+        {
+            "gameTime": "1 - 6:45",
+            "label": "Shots on target",
+            "position": "405000",
+            "half": "1",
+            "confidence": "0.1163012757897377"
+        },
+        {
+            "gameTime": "1 - 43:2",
+            "label": "Shots on target",
+            "position": "2582000",
+            "half": "1",
+            "confidence": "0.1017051562666893"
+        },
+        {
+            "gameTime": "1 - 14:52",
+            "label": "Shots on target",
+            "position": "892000",
+            "half": "1",
+            "confidence": "0.1009812131524086"
+        },
+        {
+            "gameTime": "1 - 3:31",
+            "label": "Shots off target",
+            "position": "211000",
+            "half": "1",
+            "confidence": "0.6674627661705017"
+        },
+        {
+            "gameTime": "1 - 11:29",
+            "label": "Shots off target",
+            "position": "689000",
+            "half": "1",
+            "confidence": "0.34483256936073303"
+        },
+        {
+            "gameTime": "1 - 44:0",
+            "label": "Shots off target",
+            "position": "2640500",
+            "half": "1",
+            "confidence": "0.30304503440856934"
+        },
+        {
+            "gameTime": "1 - 40:28",
+            "label": "Shots off target",
+            "position": "2428000",
+            "half": "1",
+            "confidence": "0.29749321937561035"
+        },
+        {
+            "gameTime": "1 - 13:34",
+            "label": "Shots off target",
+            "position": "814000",
+            "half": "1",
+            "confidence": "0.27083519101142883"
+        },
+        {
+            "gameTime": "1 - 4:55",
+            "label": "Shots off target",
+            "position": "295000",
+            "half": "1",
+            "confidence": "0.24453774094581604"
+        },
+        {
+            "gameTime": "1 - 27:42",
+            "label": "Shots off target",
+            "position": "1662500",
+            "half": "1",
+            "confidence": "0.1821797490119934"
+        },
+        {
+            "gameTime": "1 - 32:21",
+            "label": "Shots off target",
+            "position": "1941500",
+            "half": "1",
+            "confidence": "0.16766022145748138"
+        },
+        {
+            "gameTime": "1 - 10:51",
+            "label": "Shots off target",
+            "position": "651000",
+            "half": "1",
+            "confidence": "0.1355849802494049"
+        },
+        {
+            "gameTime": "1 - 30:51",
+            "label": "Shots off target",
+            "position": "1851000",
+            "half": "1",
+            "confidence": "0.12807904183864594"
+        },
+        {
+            "gameTime": "1 - 14:52",
+            "label": "Shots off target",
+            "position": "892000",
+            "half": "1",
+            "confidence": "0.10617969930171967"
+        },
+        {
+            "gameTime": "1 - 2:26",
+            "label": "Clearance",
+            "position": "146000",
+            "half": "1",
+            "confidence": "0.8969900608062744"
+        },
+        {
+            "gameTime": "1 - 16:38",
+            "label": "Clearance",
+            "position": "998000",
+            "half": "1",
+            "confidence": "0.8181714415550232"
+        },
+        {
+            "gameTime": "1 - 11:48",
+            "label": "Clearance",
+            "position": "708000",
+            "half": "1",
+            "confidence": "0.7941567897796631"
+        },
+        {
+            "gameTime": "1 - 3:46",
+            "label": "Clearance",
+            "position": "226500",
+            "half": "1",
+            "confidence": "0.7318719625473022"
+        },
+        {
+            "gameTime": "1 - 32:39",
+            "label": "Clearance",
+            "position": "1959000",
+            "half": "1",
+            "confidence": "0.653559148311615"
+        },
+        {
+            "gameTime": "1 - 13:49",
+            "label": "Clearance",
+            "position": "829000",
+            "half": "1",
+            "confidence": "0.650516152381897"
+        },
+        {
+            "gameTime": "1 - 27:50",
+            "label": "Clearance",
+            "position": "1670500",
+            "half": "1",
+            "confidence": "0.6332671046257019"
+        },
+        {
+            "gameTime": "1 - 36:50",
+            "label": "Clearance",
+            "position": "2210500",
+            "half": "1",
+            "confidence": "0.615995466709137"
+        },
+        {
+            "gameTime": "1 - 18:4",
+            "label": "Clearance",
+            "position": "1084000",
+            "half": "1",
+            "confidence": "0.6075811386108398"
+        },
+        {
+            "gameTime": "1 - 34:44",
+            "label": "Clearance",
+            "position": "2084500",
+            "half": "1",
+            "confidence": "0.5597053170204163"
+        },
+        {
+            "gameTime": "1 - 29:0",
+            "label": "Clearance",
+            "position": "1740500",
+            "half": "1",
+            "confidence": "0.46690118312835693"
+        },
+        {
+            "gameTime": "1 - 4:59",
+            "label": "Clearance",
+            "position": "299000",
+            "half": "1",
+            "confidence": "0.4134732782840729"
+        },
+        {
+            "gameTime": "1 - 3:31",
+            "label": "Clearance",
+            "position": "211000",
+            "half": "1",
+            "confidence": "0.3710201382637024"
+        },
+        {
+            "gameTime": "1 - 41:3",
+            "label": "Clearance",
+            "position": "2463500",
+            "half": "1",
+            "confidence": "0.30252671241760254"
+        },
+        {
+            "gameTime": "1 - 26:12",
+            "label": "Clearance",
+            "position": "1572000",
+            "half": "1",
+            "confidence": "0.26523131132125854"
+        },
+        {
+            "gameTime": "1 - 42:13",
+            "label": "Clearance",
+            "position": "2533500",
+            "half": "1",
+            "confidence": "0.25644659996032715"
+        },
+        {
+            "gameTime": "1 - 5:16",
+            "label": "Clearance",
+            "position": "316500",
+            "half": "1",
+            "confidence": "0.2439010590314865"
+        },
+        {
+            "gameTime": "1 - 11:8",
+            "label": "Clearance",
+            "position": "668500",
+            "half": "1",
+            "confidence": "0.18319232761859894"
+        },
+        {
+            "gameTime": "1 - 21:44",
+            "label": "Clearance",
+            "position": "1304500",
+            "half": "1",
+            "confidence": "0.17955632507801056"
+        },
+        {
+            "gameTime": "1 - 44:10",
+            "label": "Clearance",
+            "position": "2650500",
+            "half": "1",
+            "confidence": "0.17228373885154724"
+        },
+        {
+            "gameTime": "1 - 39:7",
+            "label": "Clearance",
+            "position": "2347000",
+            "half": "1",
+            "confidence": "0.16870516538619995"
+        },
+        {
+            "gameTime": "1 - 9:22",
+            "label": "Clearance",
+            "position": "562000",
+            "half": "1",
+            "confidence": "0.16636528074741364"
+        },
+        {
+            "gameTime": "1 - 36:33",
+            "label": "Clearance",
+            "position": "2193500",
+            "half": "1",
+            "confidence": "0.16156409680843353"
+        },
+        {
+            "gameTime": "1 - 15:31",
+            "label": "Clearance",
+            "position": "931000",
+            "half": "1",
+            "confidence": "0.1423579305410385"
+        },
+        {
+            "gameTime": "1 - 14:20",
+            "label": "Clearance",
+            "position": "860000",
+            "half": "1",
+            "confidence": "0.13830813765525818"
+        },
+        {
+            "gameTime": "1 - 23:50",
+            "label": "Clearance",
+            "position": "1430000",
+            "half": "1",
+            "confidence": "0.13575740158557892"
+        },
+        {
+            "gameTime": "1 - 39:49",
+            "label": "Clearance",
+            "position": "2389500",
+            "half": "1",
+            "confidence": "0.12787404656410217"
+        },
+        {
+            "gameTime": "1 - 20:48",
+            "label": "Clearance",
+            "position": "1248500",
+            "half": "1",
+            "confidence": "0.11840080469846725"
+        },
+        {
+            "gameTime": "1 - 24:11",
+            "label": "Clearance",
+            "position": "1451500",
+            "half": "1",
+            "confidence": "0.11241255700588226"
+        },
+        {
+            "gameTime": "1 - 24:33",
+            "label": "Clearance",
+            "position": "1473500",
+            "half": "1",
+            "confidence": "0.10715628415346146"
+        },
+        {
+            "gameTime": "1 - 37:49",
+            "label": "Clearance",
+            "position": "2269500",
+            "half": "1",
+            "confidence": "0.10387526452541351"
+        },
+        {
+            "gameTime": "1 - 2:41",
+            "label": "Clearance",
+            "position": "161000",
+            "half": "1",
+            "confidence": "0.10158929228782654"
+        },
+        {
+            "gameTime": "1 - 22:17",
+            "label": "Ball out of play",
+            "position": "1337000",
+            "half": "1",
+            "confidence": "0.9809839725494385"
+        },
+        {
+            "gameTime": "1 - 31:2",
+            "label": "Ball out of play",
+            "position": "1862500",
+            "half": "1",
+            "confidence": "0.9311349987983704"
+        },
+        {
+            "gameTime": "1 - 25:59",
+            "label": "Ball out of play",
+            "position": "1559500",
+            "half": "1",
+            "confidence": "0.9271409511566162"
+        },
+        {
+            "gameTime": "1 - 12:27",
+            "label": "Ball out of play",
+            "position": "747000",
+            "half": "1",
+            "confidence": "0.919790506362915"
+        },
+        {
+            "gameTime": "1 - 3:30",
+            "label": "Ball out of play",
+            "position": "210000",
+            "half": "1",
+            "confidence": "0.9155727028846741"
+        },
+        {
+            "gameTime": "1 - 11:19",
+            "label": "Ball out of play",
+            "position": "679500",
+            "half": "1",
+            "confidence": "0.9031519293785095"
+        },
+        {
+            "gameTime": "1 - 10:57",
+            "label": "Ball out of play",
+            "position": "657000",
+            "half": "1",
+            "confidence": "0.9008083343505859"
+        },
+        {
+            "gameTime": "1 - 36:17",
+            "label": "Ball out of play",
+            "position": "2177500",
+            "half": "1",
+            "confidence": "0.8990063667297363"
+        },
+        {
+            "gameTime": "1 - 19:57",
+            "label": "Ball out of play",
+            "position": "1197500",
+            "half": "1",
+            "confidence": "0.896963894367218"
+        },
+        {
+            "gameTime": "1 - 4:23",
+            "label": "Ball out of play",
+            "position": "263500",
+            "half": "1",
+            "confidence": "0.8934224843978882"
+        },
+        {
+            "gameTime": "1 - 44:31",
+            "label": "Ball out of play",
+            "position": "2671000",
+            "half": "1",
+            "confidence": "0.8922681212425232"
+        },
+        {
+            "gameTime": "1 - 37:34",
+            "label": "Ball out of play",
+            "position": "2254500",
+            "half": "1",
+            "confidence": "0.8833664059638977"
+        },
+        {
+            "gameTime": "1 - 17:41",
+            "label": "Ball out of play",
+            "position": "1061000",
+            "half": "1",
+            "confidence": "0.8662288784980774"
+        },
+        {
+            "gameTime": "1 - 9:18",
+            "label": "Ball out of play",
+            "position": "558500",
+            "half": "1",
+            "confidence": "0.8593289852142334"
+        },
+        {
+            "gameTime": "1 - 33:40",
+            "label": "Ball out of play",
+            "position": "2020000",
+            "half": "1",
+            "confidence": "0.8345826268196106"
+        },
+        {
+            "gameTime": "1 - 13:21",
+            "label": "Ball out of play",
+            "position": "801500",
+            "half": "1",
+            "confidence": "0.8328737020492554"
+        },
+        {
+            "gameTime": "1 - 15:39",
+            "label": "Ball out of play",
+            "position": "939000",
+            "half": "1",
+            "confidence": "0.8289785385131836"
+        },
+        {
+            "gameTime": "1 - 1:54",
+            "label": "Ball out of play",
+            "position": "114500",
+            "half": "1",
+            "confidence": "0.7989045977592468"
+        },
+        {
+            "gameTime": "1 - 6:55",
+            "label": "Ball out of play",
+            "position": "415000",
+            "half": "1",
+            "confidence": "0.7905306816101074"
+        },
+        {
+            "gameTime": "1 - 16:20",
+            "label": "Ball out of play",
+            "position": "980000",
+            "half": "1",
+            "confidence": "0.7875667810440063"
+        },
+        {
+            "gameTime": "1 - 12:9",
+            "label": "Ball out of play",
+            "position": "729500",
+            "half": "1",
+            "confidence": "0.7496671676635742"
+        },
+        {
+            "gameTime": "1 - 27:45",
+            "label": "Ball out of play",
+            "position": "1665500",
+            "half": "1",
+            "confidence": "0.7434563040733337"
+        },
+        {
+            "gameTime": "1 - 35:3",
+            "label": "Ball out of play",
+            "position": "2103000",
+            "half": "1",
+            "confidence": "0.7233312129974365"
+        },
+        {
+            "gameTime": "1 - 24:44",
+            "label": "Ball out of play",
+            "position": "1484500",
+            "half": "1",
+            "confidence": "0.709705114364624"
+        },
+        {
+            "gameTime": "1 - 24:24",
+            "label": "Ball out of play",
+            "position": "1464000",
+            "half": "1",
+            "confidence": "0.7038817405700684"
+        },
+        {
+            "gameTime": "1 - 21:23",
+            "label": "Ball out of play",
+            "position": "1283500",
+            "half": "1",
+            "confidence": "0.7027824521064758"
+        },
+        {
+            "gameTime": "1 - 33:10",
+            "label": "Ball out of play",
+            "position": "1990000",
+            "half": "1",
+            "confidence": "0.6890091896057129"
+        },
+        {
+            "gameTime": "1 - 44:0",
+            "label": "Ball out of play",
+            "position": "2640500",
+            "half": "1",
+            "confidence": "0.6701189279556274"
+        },
+        {
+            "gameTime": "1 - 4:49",
+            "label": "Ball out of play",
+            "position": "289500",
+            "half": "1",
+            "confidence": "0.6629495024681091"
+        },
+        {
+            "gameTime": "1 - 32:24",
+            "label": "Ball out of play",
+            "position": "1944500",
+            "half": "1",
+            "confidence": "0.6491946578025818"
+        },
+        {
+            "gameTime": "1 - 38:15",
+            "label": "Ball out of play",
+            "position": "2295000",
+            "half": "1",
+            "confidence": "0.631456196308136"
+        },
+        {
+            "gameTime": "1 - 21:38",
+            "label": "Ball out of play",
+            "position": "1298500",
+            "half": "1",
+            "confidence": "0.5706924200057983"
+        },
+        {
+            "gameTime": "1 - 6:4",
+            "label": "Ball out of play",
+            "position": "364500",
+            "half": "1",
+            "confidence": "0.570020854473114"
+        },
+        {
+            "gameTime": "1 - 29:58",
+            "label": "Ball out of play",
+            "position": "1798500",
+            "half": "1",
+            "confidence": "0.536817729473114"
+        },
+        {
+            "gameTime": "1 - 13:37",
+            "label": "Ball out of play",
+            "position": "817500",
+            "half": "1",
+            "confidence": "0.5147809386253357"
+        },
+        {
+            "gameTime": "1 - 28:43",
+            "label": "Ball out of play",
+            "position": "1723000",
+            "half": "1",
+            "confidence": "0.4023958444595337"
+        },
+        {
+            "gameTime": "1 - 31:30",
+            "label": "Ball out of play",
+            "position": "1890500",
+            "half": "1",
+            "confidence": "0.3656100332736969"
+        },
+        {
+            "gameTime": "1 - 40:27",
+            "label": "Ball out of play",
+            "position": "2427500",
+            "half": "1",
+            "confidence": "0.36471477150917053"
+        },
+        {
+            "gameTime": "1 - 15:0",
+            "label": "Ball out of play",
+            "position": "900000",
+            "half": "1",
+            "confidence": "0.3616400957107544"
+        },
+        {
+            "gameTime": "1 - 39:52",
+            "label": "Ball out of play",
+            "position": "2392500",
+            "half": "1",
+            "confidence": "0.32660600543022156"
+        },
+        {
+            "gameTime": "1 - 42:7",
+            "label": "Ball out of play",
+            "position": "2527500",
+            "half": "1",
+            "confidence": "0.3186984360218048"
+        },
+        {
+            "gameTime": "1 - 14:19",
+            "label": "Ball out of play",
+            "position": "859500",
+            "half": "1",
+            "confidence": "0.31089159846305847"
+        },
+        {
+            "gameTime": "1 - 24:59",
+            "label": "Ball out of play",
+            "position": "1499500",
+            "half": "1",
+            "confidence": "0.29416003823280334"
+        },
+        {
+            "gameTime": "1 - 35:32",
+            "label": "Ball out of play",
+            "position": "2132500",
+            "half": "1",
+            "confidence": "0.2912580668926239"
+        },
+        {
+            "gameTime": "1 - 43:40",
+            "label": "Ball out of play",
+            "position": "2620500",
+            "half": "1",
+            "confidence": "0.28141963481903076"
+        },
+        {
+            "gameTime": "1 - 18:13",
+            "label": "Ball out of play",
+            "position": "1093000",
+            "half": "1",
+            "confidence": "0.2340882271528244"
+        },
+        {
+            "gameTime": "1 - 39:4",
+            "label": "Ball out of play",
+            "position": "2344500",
+            "half": "1",
+            "confidence": "0.22903841733932495"
+        },
+        {
+            "gameTime": "1 - 36:40",
+            "label": "Ball out of play",
+            "position": "2200500",
+            "half": "1",
+            "confidence": "0.22360257804393768"
+        },
+        {
+            "gameTime": "1 - 15:55",
+            "label": "Ball out of play",
+            "position": "955000",
+            "half": "1",
+            "confidence": "0.22359442710876465"
+        },
+        {
+            "gameTime": "1 - 10:22",
+            "label": "Ball out of play",
+            "position": "622000",
+            "half": "1",
+            "confidence": "0.2210850715637207"
+        },
+        {
+            "gameTime": "1 - 41:47",
+            "label": "Ball out of play",
+            "position": "2507500",
+            "half": "1",
+            "confidence": "0.21797142922878265"
+        },
+        {
+            "gameTime": "1 - 1:39",
+            "label": "Ball out of play",
+            "position": "99000",
+            "half": "1",
+            "confidence": "0.21706365048885345"
+        },
+        {
+            "gameTime": "1 - 42:59",
+            "label": "Ball out of play",
+            "position": "2579500",
+            "half": "1",
+            "confidence": "0.21400226652622223"
+        },
+        {
+            "gameTime": "1 - 20:49",
+            "label": "Ball out of play",
+            "position": "1249500",
+            "half": "1",
+            "confidence": "0.2105790376663208"
+        },
+        {
+            "gameTime": "1 - 40:42",
+            "label": "Ball out of play",
+            "position": "2442500",
+            "half": "1",
+            "confidence": "0.2103390246629715"
+        },
+        {
+            "gameTime": "1 - 30:22",
+            "label": "Ball out of play",
+            "position": "1822500",
+            "half": "1",
+            "confidence": "0.2064710110425949"
+        },
+        {
+            "gameTime": "1 - 25:44",
+            "label": "Ball out of play",
+            "position": "1544000",
+            "half": "1",
+            "confidence": "0.20567040145397186"
+        },
+        {
+            "gameTime": "1 - 17:16",
+            "label": "Ball out of play",
+            "position": "1036500",
+            "half": "1",
+            "confidence": "0.2015824317932129"
+        },
+        {
+            "gameTime": "1 - 5:26",
+            "label": "Ball out of play",
+            "position": "326000",
+            "half": "1",
+            "confidence": "0.20078346133232117"
+        },
+        {
+            "gameTime": "1 - 24:2",
+            "label": "Ball out of play",
+            "position": "1442500",
+            "half": "1",
+            "confidence": "0.19863282144069672"
+        },
+        {
+            "gameTime": "1 - 19:37",
+            "label": "Ball out of play",
+            "position": "1177000",
+            "half": "1",
+            "confidence": "0.18291513621807098"
+        },
+        {
+            "gameTime": "1 - 9:3",
+            "label": "Ball out of play",
+            "position": "543000",
+            "half": "1",
+            "confidence": "0.1825898140668869"
+        },
+        {
+            "gameTime": "1 - 23:4",
+            "label": "Ball out of play",
+            "position": "1384000",
+            "half": "1",
+            "confidence": "0.17410245537757874"
+        },
+        {
+            "gameTime": "1 - 10:41",
+            "label": "Ball out of play",
+            "position": "641500",
+            "half": "1",
+            "confidence": "0.17113637924194336"
+        },
+        {
+            "gameTime": "1 - 31:46",
+            "label": "Ball out of play",
+            "position": "1906000",
+            "half": "1",
+            "confidence": "0.16430577635765076"
+        },
+        {
+            "gameTime": "1 - 28:58",
+            "label": "Ball out of play",
+            "position": "1738000",
+            "half": "1",
+            "confidence": "0.16046464443206787"
+        },
+        {
+            "gameTime": "1 - 43:15",
+            "label": "Ball out of play",
+            "position": "2595000",
+            "half": "1",
+            "confidence": "0.15714919567108154"
+        },
+        {
+            "gameTime": "1 - 44:59",
+            "label": "Ball out of play",
+            "position": "2699000",
+            "half": "1",
+            "confidence": "0.1556250900030136"
+        },
+        {
+            "gameTime": "1 - 2:26",
+            "label": "Ball out of play",
+            "position": "146000",
+            "half": "1",
+            "confidence": "0.1544772833585739"
+        },
+        {
+            "gameTime": "1 - 34:7",
+            "label": "Ball out of play",
+            "position": "2047500",
+            "half": "1",
+            "confidence": "0.13997499644756317"
+        },
+        {
+            "gameTime": "1 - 26:49",
+            "label": "Ball out of play",
+            "position": "1609000",
+            "half": "1",
+            "confidence": "0.13868965208530426"
+        },
+        {
+            "gameTime": "1 - 28:9",
+            "label": "Ball out of play",
+            "position": "1689000",
+            "half": "1",
+            "confidence": "0.13664551079273224"
+        },
+        {
+            "gameTime": "1 - 12:49",
+            "label": "Ball out of play",
+            "position": "769000",
+            "half": "1",
+            "confidence": "0.12896709144115448"
+        },
+        {
+            "gameTime": "1 - 8:24",
+            "label": "Ball out of play",
+            "position": "504500",
+            "half": "1",
+            "confidence": "0.12588390707969666"
+        },
+        {
+            "gameTime": "1 - 38:40",
+            "label": "Ball out of play",
+            "position": "2320500",
+            "half": "1",
+            "confidence": "0.12467851489782333"
+        },
+        {
+            "gameTime": "1 - 20:26",
+            "label": "Ball out of play",
+            "position": "1226500",
+            "half": "1",
+            "confidence": "0.12360353767871857"
+        },
+        {
+            "gameTime": "1 - 7:21",
+            "label": "Ball out of play",
+            "position": "441000",
+            "half": "1",
+            "confidence": "0.12190046906471252"
+        },
+        {
+            "gameTime": "1 - 14:44",
+            "label": "Ball out of play",
+            "position": "884000",
+            "half": "1",
+            "confidence": "0.12180747836828232"
+        },
+        {
+            "gameTime": "1 - 37:56",
+            "label": "Ball out of play",
+            "position": "2276500",
+            "half": "1",
+            "confidence": "0.12131832540035248"
+        },
+        {
+            "gameTime": "1 - 23:40",
+            "label": "Ball out of play",
+            "position": "1420000",
+            "half": "1",
+            "confidence": "0.11356521397829056"
+        },
+        {
+            "gameTime": "1 - 10:6",
+            "label": "Ball out of play",
+            "position": "606500",
+            "half": "1",
+            "confidence": "0.1113806888461113"
+        },
+        {
+            "gameTime": "1 - 21:4",
+            "label": "Ball out of play",
+            "position": "1264500",
+            "half": "1",
+            "confidence": "0.10775633156299591"
+        },
+        {
+            "gameTime": "1 - 37:1",
+            "label": "Ball out of play",
+            "position": "2221000",
+            "half": "1",
+            "confidence": "0.10396607220172882"
+        },
+        {
+            "gameTime": "1 - 37:16",
+            "label": "Ball out of play",
+            "position": "2236500",
+            "half": "1",
+            "confidence": "0.10379640758037567"
+        },
+        {
+            "gameTime": "1 - 22:20",
+            "label": "Throw-in",
+            "position": "1340000",
+            "half": "1",
+            "confidence": "0.9954981803894043"
+        },
+        {
+            "gameTime": "1 - 12:27",
+            "label": "Throw-in",
+            "position": "747000",
+            "half": "1",
+            "confidence": "0.9954307079315186"
+        },
+        {
+            "gameTime": "1 - 4:24",
+            "label": "Throw-in",
+            "position": "264000",
+            "half": "1",
+            "confidence": "0.9914447665214539"
+        },
+        {
+            "gameTime": "1 - 37:35",
+            "label": "Throw-in",
+            "position": "2255000",
+            "half": "1",
+            "confidence": "0.9744385480880737"
+        },
+        {
+            "gameTime": "1 - 31:31",
+            "label": "Throw-in",
+            "position": "1891500",
+            "half": "1",
+            "confidence": "0.9544474482536316"
+        },
+        {
+            "gameTime": "1 - 44:41",
+            "label": "Throw-in",
+            "position": "2681000",
+            "half": "1",
+            "confidence": "0.8458715677261353"
+        },
+        {
+            "gameTime": "1 - 21:37",
+            "label": "Throw-in",
+            "position": "1297000",
+            "half": "1",
+            "confidence": "0.7959558963775635"
+        },
+        {
+            "gameTime": "1 - 7:1",
+            "label": "Throw-in",
+            "position": "421500",
+            "half": "1",
+            "confidence": "0.7023694515228271"
+        },
+        {
+            "gameTime": "1 - 25:0",
+            "label": "Throw-in",
+            "position": "1500500",
+            "half": "1",
+            "confidence": "0.6965970396995544"
+        },
+        {
+            "gameTime": "1 - 15:46",
+            "label": "Throw-in",
+            "position": "946000",
+            "half": "1",
+            "confidence": "0.6889020800590515"
+        },
+        {
+            "gameTime": "1 - 23:14",
+            "label": "Throw-in",
+            "position": "1394000",
+            "half": "1",
+            "confidence": "0.61881023645401"
+        },
+        {
+            "gameTime": "1 - 9:26",
+            "label": "Throw-in",
+            "position": "566000",
+            "half": "1",
+            "confidence": "0.6127489805221558"
+        },
+        {
+            "gameTime": "1 - 26:21",
+            "label": "Throw-in",
+            "position": "1581000",
+            "half": "1",
+            "confidence": "0.5910086631774902"
+        },
+        {
+            "gameTime": "1 - 36:28",
+            "label": "Throw-in",
+            "position": "2188000",
+            "half": "1",
+            "confidence": "0.5590775012969971"
+        },
+        {
+            "gameTime": "1 - 6:11",
+            "label": "Throw-in",
+            "position": "371500",
+            "half": "1",
+            "confidence": "0.5335766077041626"
+        },
+        {
+            "gameTime": "1 - 39:52",
+            "label": "Throw-in",
+            "position": "2392500",
+            "half": "1",
+            "confidence": "0.5296083688735962"
+        },
+        {
+            "gameTime": "1 - 17:14",
+            "label": "Throw-in",
+            "position": "1034500",
+            "half": "1",
+            "confidence": "0.5093148946762085"
+        },
+        {
+            "gameTime": "1 - 44:22",
+            "label": "Throw-in",
+            "position": "2662500",
+            "half": "1",
+            "confidence": "0.504780113697052"
+        },
+        {
+            "gameTime": "1 - 14:1",
+            "label": "Throw-in",
+            "position": "841000",
+            "half": "1",
+            "confidence": "0.4682099223136902"
+        },
+        {
+            "gameTime": "1 - 37:55",
+            "label": "Throw-in",
+            "position": "2275500",
+            "half": "1",
+            "confidence": "0.46810320019721985"
+        },
+        {
+            "gameTime": "1 - 35:15",
+            "label": "Throw-in",
+            "position": "2115500",
+            "half": "1",
+            "confidence": "0.3960033059120178"
+        },
+        {
+            "gameTime": "1 - 24:33",
+            "label": "Throw-in",
+            "position": "1473500",
+            "half": "1",
+            "confidence": "0.3856044411659241"
+        },
+        {
+            "gameTime": "1 - 7:20",
+            "label": "Throw-in",
+            "position": "440500",
+            "half": "1",
+            "confidence": "0.38340869545936584"
+        },
+        {
+            "gameTime": "1 - 2:36",
+            "label": "Throw-in",
+            "position": "156000",
+            "half": "1",
+            "confidence": "0.36895912885665894"
+        },
+        {
+            "gameTime": "1 - 21:52",
+            "label": "Throw-in",
+            "position": "1312000",
+            "half": "1",
+            "confidence": "0.353888601064682"
+        },
+        {
+            "gameTime": "1 - 31:15",
+            "label": "Throw-in",
+            "position": "1875500",
+            "half": "1",
+            "confidence": "0.3534182906150818"
+        },
+        {
+            "gameTime": "1 - 30:31",
+            "label": "Throw-in",
+            "position": "1831500",
+            "half": "1",
+            "confidence": "0.3509080410003662"
+        },
+        {
+            "gameTime": "1 - 26:1",
+            "label": "Throw-in",
+            "position": "1561500",
+            "half": "1",
+            "confidence": "0.33054882287979126"
+        },
+        {
+            "gameTime": "1 - 21:21",
+            "label": "Throw-in",
+            "position": "1281500",
+            "half": "1",
+            "confidence": "0.3162311017513275"
+        },
+        {
+            "gameTime": "1 - 35:31",
+            "label": "Throw-in",
+            "position": "2131000",
+            "half": "1",
+            "confidence": "0.31452688574790955"
+        },
+        {
+            "gameTime": "1 - 14:33",
+            "label": "Throw-in",
+            "position": "873000",
+            "half": "1",
+            "confidence": "0.2651267647743225"
+        },
+        {
+            "gameTime": "1 - 33:15",
+            "label": "Throw-in",
+            "position": "1995000",
+            "half": "1",
+            "confidence": "0.2548953890800476"
+        },
+        {
+            "gameTime": "1 - 18:17",
+            "label": "Throw-in",
+            "position": "1097000",
+            "half": "1",
+            "confidence": "0.25177597999572754"
+        },
+        {
+            "gameTime": "1 - 40:57",
+            "label": "Throw-in",
+            "position": "2457000",
+            "half": "1",
+            "confidence": "0.24888820946216583"
+        },
+        {
+            "gameTime": "1 - 36:45",
+            "label": "Throw-in",
+            "position": "2205000",
+            "half": "1",
+            "confidence": "0.23715618252754211"
+        },
+        {
+            "gameTime": "1 - 27:54",
+            "label": "Throw-in",
+            "position": "1674000",
+            "half": "1",
+            "confidence": "0.2268732190132141"
+        },
+        {
+            "gameTime": "1 - 19:0",
+            "label": "Throw-in",
+            "position": "1140000",
+            "half": "1",
+            "confidence": "0.20920142531394958"
+        },
+        {
+            "gameTime": "1 - 41:56",
+            "label": "Throw-in",
+            "position": "2516500",
+            "half": "1",
+            "confidence": "0.20139938592910767"
+        },
+        {
+            "gameTime": "1 - 12:9",
+            "label": "Throw-in",
+            "position": "729000",
+            "half": "1",
+            "confidence": "0.17649316787719727"
+        },
+        {
+            "gameTime": "1 - 43:42",
+            "label": "Throw-in",
+            "position": "2622500",
+            "half": "1",
+            "confidence": "0.14946937561035156"
+        },
+        {
+            "gameTime": "1 - 14:55",
+            "label": "Throw-in",
+            "position": "895500",
+            "half": "1",
+            "confidence": "0.14755193889141083"
+        },
+        {
+            "gameTime": "1 - 4:8",
+            "label": "Throw-in",
+            "position": "248000",
+            "half": "1",
+            "confidence": "0.14673568308353424"
+        },
+        {
+            "gameTime": "1 - 19:58",
+            "label": "Throw-in",
+            "position": "1198000",
+            "half": "1",
+            "confidence": "0.1455547958612442"
+        },
+        {
+            "gameTime": "1 - 16:22",
+            "label": "Throw-in",
+            "position": "982500",
+            "half": "1",
+            "confidence": "0.14336420595645905"
+        },
+        {
+            "gameTime": "1 - 11:22",
+            "label": "Throw-in",
+            "position": "682500",
+            "half": "1",
+            "confidence": "0.13896135985851288"
+        },
+        {
+            "gameTime": "1 - 3:20",
+            "label": "Throw-in",
+            "position": "200500",
+            "half": "1",
+            "confidence": "0.13618119060993195"
+        },
+        {
+            "gameTime": "1 - 1:53",
+            "label": "Throw-in",
+            "position": "113500",
+            "half": "1",
+            "confidence": "0.1332753747701645"
+        },
+        {
+            "gameTime": "1 - 10:10",
+            "label": "Throw-in",
+            "position": "610000",
+            "half": "1",
+            "confidence": "0.1321425586938858"
+        },
+        {
+            "gameTime": "1 - 18:1",
+            "label": "Throw-in",
+            "position": "1081500",
+            "half": "1",
+            "confidence": "0.13192185759544373"
+        },
+        {
+            "gameTime": "1 - 10:28",
+            "label": "Throw-in",
+            "position": "628000",
+            "half": "1",
+            "confidence": "0.12970952689647675"
+        },
+        {
+            "gameTime": "1 - 43:16",
+            "label": "Throw-in",
+            "position": "2596500",
+            "half": "1",
+            "confidence": "0.12244953215122223"
+        },
+        {
+            "gameTime": "1 - 13:32",
+            "label": "Throw-in",
+            "position": "812500",
+            "half": "1",
+            "confidence": "0.12180057168006897"
+        },
+        {
+            "gameTime": "1 - 36:12",
+            "label": "Throw-in",
+            "position": "2172500",
+            "half": "1",
+            "confidence": "0.11721611768007278"
+        },
+        {
+            "gameTime": "1 - 31:51",
+            "label": "Throw-in",
+            "position": "1911500",
+            "half": "1",
+            "confidence": "0.11202840507030487"
+        },
+        {
+            "gameTime": "1 - 12:59",
+            "label": "Throw-in",
+            "position": "779500",
+            "half": "1",
+            "confidence": "0.10575167834758759"
+        },
+        {
+            "gameTime": "1 - 42:57",
+            "label": "Throw-in",
+            "position": "2577500",
+            "half": "1",
+            "confidence": "0.10353262722492218"
+        },
+        {
+            "gameTime": "1 - 42:17",
+            "label": "Throw-in",
+            "position": "2537500",
+            "half": "1",
+            "confidence": "0.10282948613166809"
+        },
+        {
+            "gameTime": "1 - 26:54",
+            "label": "Foul",
+            "position": "1614000",
+            "half": "1",
+            "confidence": "0.9328666925430298"
+        },
+        {
+            "gameTime": "1 - 39:9",
+            "label": "Foul",
+            "position": "2349500",
+            "half": "1",
+            "confidence": "0.7167127132415771"
+        },
+        {
+            "gameTime": "1 - 23:46",
+            "label": "Foul",
+            "position": "1426000",
+            "half": "1",
+            "confidence": "0.637407660484314"
+        },
+        {
+            "gameTime": "1 - 7:1",
+            "label": "Foul",
+            "position": "421000",
+            "half": "1",
+            "confidence": "0.6355227828025818"
+        },
+        {
+            "gameTime": "1 - 35:10",
+            "label": "Foul",
+            "position": "2110000",
+            "half": "1",
+            "confidence": "0.6167141199111938"
+        },
+        {
+            "gameTime": "1 - 15:5",
+            "label": "Foul",
+            "position": "905500",
+            "half": "1",
+            "confidence": "0.567122220993042"
+        },
+        {
+            "gameTime": "1 - 36:26",
+            "label": "Foul",
+            "position": "2186000",
+            "half": "1",
+            "confidence": "0.5267979502677917"
+        },
+        {
+            "gameTime": "1 - 5:23",
+            "label": "Foul",
+            "position": "323000",
+            "half": "1",
+            "confidence": "0.508928656578064"
+        },
+        {
+            "gameTime": "1 - 30:7",
+            "label": "Foul",
+            "position": "1807500",
+            "half": "1",
+            "confidence": "0.3524911403656006"
+        },
+        {
+            "gameTime": "1 - 41:56",
+            "label": "Foul",
+            "position": "2516500",
+            "half": "1",
+            "confidence": "0.3444882929325104"
+        },
+        {
+            "gameTime": "1 - 31:7",
+            "label": "Foul",
+            "position": "1867500",
+            "half": "1",
+            "confidence": "0.33842939138412476"
+        },
+        {
+            "gameTime": "1 - 24:54",
+            "label": "Foul",
+            "position": "1494500",
+            "half": "1",
+            "confidence": "0.2961578965187073"
+        },
+        {
+            "gameTime": "1 - 28:44",
+            "label": "Foul",
+            "position": "1724000",
+            "half": "1",
+            "confidence": "0.2664528489112854"
+        },
+        {
+            "gameTime": "1 - 2:5",
+            "label": "Foul",
+            "position": "125500",
+            "half": "1",
+            "confidence": "0.25335729122161865"
+        },
+        {
+            "gameTime": "1 - 11:18",
+            "label": "Foul",
+            "position": "678500",
+            "half": "1",
+            "confidence": "0.23457247018814087"
+        },
+        {
+            "gameTime": "1 - 32:12",
+            "label": "Foul",
+            "position": "1932500",
+            "half": "1",
+            "confidence": "0.2321314662694931"
+        },
+        {
+            "gameTime": "1 - 39:26",
+            "label": "Foul",
+            "position": "2366000",
+            "half": "1",
+            "confidence": "0.22395315766334534"
+        },
+        {
+            "gameTime": "1 - 24:15",
+            "label": "Foul",
+            "position": "1455000",
+            "half": "1",
+            "confidence": "0.2142607420682907"
+        },
+        {
+            "gameTime": "1 - 16:54",
+            "label": "Foul",
+            "position": "1014000",
+            "half": "1",
+            "confidence": "0.19352315366268158"
+        },
+        {
+            "gameTime": "1 - 2:32",
+            "label": "Foul",
+            "position": "152000",
+            "half": "1",
+            "confidence": "0.19168595969676971"
+        },
+        {
+            "gameTime": "1 - 1:7",
+            "label": "Foul",
+            "position": "67000",
+            "half": "1",
+            "confidence": "0.18756280839443207"
+        },
+        {
+            "gameTime": "1 - 22:5",
+            "label": "Foul",
+            "position": "1325000",
+            "half": "1",
+            "confidence": "0.17970825731754303"
+        },
+        {
+            "gameTime": "1 - 10:45",
+            "label": "Foul",
+            "position": "645500",
+            "half": "1",
+            "confidence": "0.16686590015888214"
+        },
+        {
+            "gameTime": "1 - 4:52",
+            "label": "Foul",
+            "position": "292000",
+            "half": "1",
+            "confidence": "0.16262835264205933"
+        },
+        {
+            "gameTime": "1 - 43:32",
+            "label": "Foul",
+            "position": "2612500",
+            "half": "1",
+            "confidence": "0.16192801296710968"
+        },
+        {
+            "gameTime": "1 - 17:57",
+            "label": "Foul",
+            "position": "1077000",
+            "half": "1",
+            "confidence": "0.1616370528936386"
+        },
+        {
+            "gameTime": "1 - 15:46",
+            "label": "Foul",
+            "position": "946500",
+            "half": "1",
+            "confidence": "0.15509337186813354"
+        },
+        {
+            "gameTime": "1 - 13:59",
+            "label": "Foul",
+            "position": "839500",
+            "half": "1",
+            "confidence": "0.12445157766342163"
+        },
+        {
+            "gameTime": "1 - 32:39",
+            "label": "Foul",
+            "position": "1959000",
+            "half": "1",
+            "confidence": "0.12394377589225769"
+        },
+        {
+            "gameTime": "1 - 21:17",
+            "label": "Foul",
+            "position": "1277000",
+            "half": "1",
+            "confidence": "0.12390672415494919"
+        },
+        {
+            "gameTime": "1 - 5:39",
+            "label": "Foul",
+            "position": "339500",
+            "half": "1",
+            "confidence": "0.12362533807754517"
+        },
+        {
+            "gameTime": "1 - 27:58",
+            "label": "Foul",
+            "position": "1678500",
+            "half": "1",
+            "confidence": "0.12044689804315567"
+        },
+        {
+            "gameTime": "1 - 16:20",
+            "label": "Foul",
+            "position": "980000",
+            "half": "1",
+            "confidence": "0.11901203542947769"
+        },
+        {
+            "gameTime": "1 - 40:15",
+            "label": "Foul",
+            "position": "2415000",
+            "half": "1",
+            "confidence": "0.11454268544912338"
+        },
+        {
+            "gameTime": "1 - 29:11",
+            "label": "Foul",
+            "position": "1751500",
+            "half": "1",
+            "confidence": "0.11379951238632202"
+        },
+        {
+            "gameTime": "1 - 23:3",
+            "label": "Foul",
+            "position": "1383000",
+            "half": "1",
+            "confidence": "0.10553894937038422"
+        },
+        {
+            "gameTime": "1 - 36:48",
+            "label": "Foul",
+            "position": "2208500",
+            "half": "1",
+            "confidence": "0.10550611466169357"
+        },
+        {
+            "gameTime": "1 - 37:41",
+            "label": "Foul",
+            "position": "2261000",
+            "half": "1",
+            "confidence": "0.10498829185962677"
+        },
+        {
+            "gameTime": "1 - 13:21",
+            "label": "Foul",
+            "position": "801500",
+            "half": "1",
+            "confidence": "0.10208860039710999"
+        },
+        {
+            "gameTime": "1 - 19:51",
+            "label": "Foul",
+            "position": "1191000",
+            "half": "1",
+            "confidence": "0.10196045786142349"
+        },
+        {
+            "gameTime": "1 - 29:1",
+            "label": "Indirect free-kick",
+            "position": "1741000",
+            "half": "1",
+            "confidence": "0.2699804902076721"
+        },
+        {
+            "gameTime": "1 - 34:46",
+            "label": "Indirect free-kick",
+            "position": "2086000",
+            "half": "1",
+            "confidence": "0.25911831855773926"
+        },
+        {
+            "gameTime": "1 - 11:54",
+            "label": "Indirect free-kick",
+            "position": "714000",
+            "half": "1",
+            "confidence": "0.2301667034626007"
+        },
+        {
+            "gameTime": "1 - 35:21",
+            "label": "Indirect free-kick",
+            "position": "2121500",
+            "half": "1",
+            "confidence": "0.19491246342658997"
+        },
+        {
+            "gameTime": "1 - 44:22",
+            "label": "Indirect free-kick",
+            "position": "2662500",
+            "half": "1",
+            "confidence": "0.18759670853614807"
+        },
+        {
+            "gameTime": "1 - 39:43",
+            "label": "Indirect free-kick",
+            "position": "2383500",
+            "half": "1",
+            "confidence": "0.18056483566761017"
+        },
+        {
+            "gameTime": "1 - 2:15",
+            "label": "Indirect free-kick",
+            "position": "135500",
+            "half": "1",
+            "confidence": "0.1632644385099411"
+        },
+        {
+            "gameTime": "1 - 15:23",
+            "label": "Indirect free-kick",
+            "position": "923500",
+            "half": "1",
+            "confidence": "0.16200272738933563"
+        },
+        {
+            "gameTime": "1 - 5:55",
+            "label": "Indirect free-kick",
+            "position": "355000",
+            "half": "1",
+            "confidence": "0.16040755808353424"
+        },
+        {
+            "gameTime": "1 - 36:37",
+            "label": "Indirect free-kick",
+            "position": "2197500",
+            "half": "1",
+            "confidence": "0.15748482942581177"
+        },
+        {
+            "gameTime": "1 - 24:30",
+            "label": "Indirect free-kick",
+            "position": "1470000",
+            "half": "1",
+            "confidence": "0.15409667789936066"
+        },
+        {
+            "gameTime": "1 - 9:25",
+            "label": "Indirect free-kick",
+            "position": "565500",
+            "half": "1",
+            "confidence": "0.15057311952114105"
+        },
+        {
+            "gameTime": "1 - 21:5",
+            "label": "Indirect free-kick",
+            "position": "1265500",
+            "half": "1",
+            "confidence": "0.14866577088832855"
+        },
+        {
+            "gameTime": "1 - 30:26",
+            "label": "Indirect free-kick",
+            "position": "1826500",
+            "half": "1",
+            "confidence": "0.14712560176849365"
+        },
+        {
+            "gameTime": "1 - 11:36",
+            "label": "Indirect free-kick",
+            "position": "696000",
+            "half": "1",
+            "confidence": "0.1345130354166031"
+        },
+        {
+            "gameTime": "1 - 23:56",
+            "label": "Indirect free-kick",
+            "position": "1436000",
+            "half": "1",
+            "confidence": "0.13372698426246643"
+        },
+        {
+            "gameTime": "1 - 5:23",
+            "label": "Indirect free-kick",
+            "position": "323500",
+            "half": "1",
+            "confidence": "0.13220015168190002"
+        },
+        {
+            "gameTime": "1 - 7:10",
+            "label": "Indirect free-kick",
+            "position": "430500",
+            "half": "1",
+            "confidence": "0.1156618669629097"
+        },
+        {
+            "gameTime": "1 - 24:59",
+            "label": "Indirect free-kick",
+            "position": "1499000",
+            "half": "1",
+            "confidence": "0.11393613368272781"
+        },
+        {
+            "gameTime": "1 - 28:6",
+            "label": "Indirect free-kick",
+            "position": "1686000",
+            "half": "1",
+            "confidence": "0.1089293360710144"
+        },
+        {
+            "gameTime": "1 - 32:40",
+            "label": "Indirect free-kick",
+            "position": "1960000",
+            "half": "1",
+            "confidence": "0.1067817434668541"
+        },
+        {
+            "gameTime": "1 - 42:5",
+            "label": "Indirect free-kick",
+            "position": "2525000",
+            "half": "1",
+            "confidence": "0.10585900396108627"
+        },
+        {
+            "gameTime": "1 - 40:59",
+            "label": "Indirect free-kick",
+            "position": "2459000",
+            "half": "1",
+            "confidence": "0.10463181138038635"
+        },
+        {
+            "gameTime": "1 - 32:50",
+            "label": "Direct free-kick",
+            "position": "1970500",
+            "half": "1",
+            "confidence": "0.534920334815979"
+        },
+        {
+            "gameTime": "1 - 5:52",
+            "label": "Direct free-kick",
+            "position": "352000",
+            "half": "1",
+            "confidence": "0.5270197987556458"
+        },
+        {
+            "gameTime": "1 - 5:16",
+            "label": "Direct free-kick",
+            "position": "316500",
+            "half": "1",
+            "confidence": "0.45951026678085327"
+        },
+        {
+            "gameTime": "1 - 27:37",
+            "label": "Direct free-kick",
+            "position": "1657500",
+            "half": "1",
+            "confidence": "0.45109182596206665"
+        },
+        {
+            "gameTime": "1 - 39:45",
+            "label": "Direct free-kick",
+            "position": "2385000",
+            "half": "1",
+            "confidence": "0.3000282645225525"
+        },
+        {
+            "gameTime": "1 - 25:4",
+            "label": "Direct free-kick",
+            "position": "1504000",
+            "half": "1",
+            "confidence": "0.26657888293266296"
+        },
+        {
+            "gameTime": "1 - 20:16",
+            "label": "Direct free-kick",
+            "position": "1216000",
+            "half": "1",
+            "confidence": "0.2468739151954651"
+        },
+        {
+            "gameTime": "1 - 40:59",
+            "label": "Direct free-kick",
+            "position": "2459500",
+            "half": "1",
+            "confidence": "0.19144892692565918"
+        },
+        {
+            "gameTime": "1 - 23:52",
+            "label": "Direct free-kick",
+            "position": "1432000",
+            "half": "1",
+            "confidence": "0.1731008142232895"
+        },
+        {
+            "gameTime": "1 - 24:32",
+            "label": "Direct free-kick",
+            "position": "1472000",
+            "half": "1",
+            "confidence": "0.16134341061115265"
+        },
+        {
+            "gameTime": "1 - 16:44",
+            "label": "Direct free-kick",
+            "position": "1004500",
+            "half": "1",
+            "confidence": "0.14911726117134094"
+        },
+        {
+            "gameTime": "1 - 37:52",
+            "label": "Direct free-kick",
+            "position": "2272500",
+            "half": "1",
+            "confidence": "0.13931718468666077"
+        },
+        {
+            "gameTime": "1 - 17:13",
+            "label": "Direct free-kick",
+            "position": "1033500",
+            "half": "1",
+            "confidence": "0.13277879357337952"
+        },
+        {
+            "gameTime": "1 - 28:6",
+            "label": "Direct free-kick",
+            "position": "1686000",
+            "half": "1",
+            "confidence": "0.12820535898208618"
+        },
+        {
+            "gameTime": "1 - 5:36",
+            "label": "Direct free-kick",
+            "position": "336000",
+            "half": "1",
+            "confidence": "0.1277644783258438"
+        },
+        {
+            "gameTime": "1 - 14:3",
+            "label": "Direct free-kick",
+            "position": "843000",
+            "half": "1",
+            "confidence": "0.12534627318382263"
+        },
+        {
+            "gameTime": "1 - 29:2",
+            "label": "Direct free-kick",
+            "position": "1742500",
+            "half": "1",
+            "confidence": "0.12357233464717865"
+        },
+        {
+            "gameTime": "1 - 36:33",
+            "label": "Direct free-kick",
+            "position": "2193000",
+            "half": "1",
+            "confidence": "0.11822051554918289"
+        },
+        {
+            "gameTime": "1 - 4:55",
+            "label": "Direct free-kick",
+            "position": "295000",
+            "half": "1",
+            "confidence": "0.11160650104284286"
+        },
+        {
+            "gameTime": "1 - 6:52",
+            "label": "Direct free-kick",
+            "position": "412500",
+            "half": "1",
+            "confidence": "0.11093217879533768"
+        },
+        {
+            "gameTime": "1 - 2:29",
+            "label": "Direct free-kick",
+            "position": "149000",
+            "half": "1",
+            "confidence": "0.1032847985625267"
+        },
+        {
+            "gameTime": "1 - 35:22",
+            "label": "Direct free-kick",
+            "position": "2122000",
+            "half": "1",
+            "confidence": "0.10185839235782623"
+        },
+        {
+            "gameTime": "1 - 26:43",
+            "label": "Direct free-kick",
+            "position": "1603500",
+            "half": "1",
+            "confidence": "0.10145348310470581"
+        },
+        {
+            "gameTime": "1 - 33:36",
+            "label": "Corner",
+            "position": "2016500",
+            "half": "1",
+            "confidence": "0.9994390606880188"
+        },
+        {
+            "gameTime": "1 - 11:19",
+            "label": "Corner",
+            "position": "679000",
+            "half": "1",
+            "confidence": "0.9986434578895569"
+        },
+        {
+            "gameTime": "1 - 20:24",
+            "label": "Corner",
+            "position": "1224000",
+            "half": "1",
+            "confidence": "0.9869957566261292"
+        },
+        {
+            "gameTime": "1 - 38:34",
+            "label": "Corner",
+            "position": "2314500",
+            "half": "1",
+            "confidence": "0.9797556400299072"
+        },
+        {
+            "gameTime": "1 - 40:54",
+            "label": "Corner",
+            "position": "2454000",
+            "half": "1",
+            "confidence": "0.9569733142852783"
+        },
+        {
+            "gameTime": "1 - 9:25",
+            "label": "Corner",
+            "position": "565500",
+            "half": "1",
+            "confidence": "0.49248653650283813"
+        },
+        {
+            "gameTime": "1 - 26:13",
+            "label": "Corner",
+            "position": "1573000",
+            "half": "1",
+            "confidence": "0.21197393536567688"
+        },
+        {
+            "gameTime": "1 - 33:51",
+            "label": "Corner",
+            "position": "2031500",
+            "half": "1",
+            "confidence": "0.19377678632736206"
+        },
+        {
+            "gameTime": "1 - 4:56",
+            "label": "Corner",
+            "position": "296000",
+            "half": "1",
+            "confidence": "0.16114211082458496"
+        },
+        {
+            "gameTime": "1 - 16:20",
+            "label": "Corner",
+            "position": "980500",
+            "half": "1",
+            "confidence": "0.1450754553079605"
+        },
+        {
+            "gameTime": "1 - 11:0",
+            "label": "Corner",
+            "position": "660000",
+            "half": "1",
+            "confidence": "0.1415671855211258"
+        },
+        {
+            "gameTime": "1 - 11:34",
+            "label": "Corner",
+            "position": "694000",
+            "half": "1",
+            "confidence": "0.14068305492401123"
+        },
+        {
+            "gameTime": "1 - 31:2",
+            "label": "Corner",
+            "position": "1862500",
+            "half": "1",
+            "confidence": "0.1394144594669342"
+        },
+        {
+            "gameTime": "1 - 27:0",
+            "label": "Yellow card",
+            "position": "1620500",
+            "half": "1",
+            "confidence": "0.8665800094604492"
+        },
+        {
+            "gameTime": "1 - 15:5",
+            "label": "Yellow card",
+            "position": "905500",
+            "half": "1",
+            "confidence": "0.5528658628463745"
+        },
+        {
+            "gameTime": "1 - 39:19",
+            "label": "Yellow card",
+            "position": "2359500",
+            "half": "1",
+            "confidence": "0.27420565485954285"
+        },
+        {
+            "gameTime": "1 - 5:47",
+            "label": "Yellow card",
+            "position": "347500",
+            "half": "1",
+            "confidence": "0.10098006576299667"
+        },
+        {
+            "gameTime": "2 - 20:34",
+            "label": "Penalty",
+            "position": "1234000",
+            "half": "2",
+            "confidence": "0.8060736060142517"
+        },
+        {
+            "gameTime": "2 - 0:0",
+            "label": "Kick-off",
+            "position": "0",
+            "half": "2",
+            "confidence": "0.988450288772583"
+        },
+        {
+            "gameTime": "2 - 22:12",
+            "label": "Kick-off",
+            "position": "1332000",
+            "half": "2",
+            "confidence": "0.9785017967224121"
+        },
+        {
+            "gameTime": "2 - 42:10",
+            "label": "Kick-off",
+            "position": "2530500",
+            "half": "2",
+            "confidence": "0.7410209774971008"
+        },
+        {
+            "gameTime": "2 - 10:23",
+            "label": "Kick-off",
+            "position": "623500",
+            "half": "2",
+            "confidence": "0.6017782092094421"
+        },
+        {
+            "gameTime": "2 - 32:58",
+            "label": "Kick-off",
+            "position": "1978500",
+            "half": "2",
+            "confidence": "0.5676202178001404"
+        },
+        {
+            "gameTime": "2 - 43:53",
+            "label": "Kick-off",
+            "position": "2633500",
+            "half": "2",
+            "confidence": "0.5051067471504211"
+        },
+        {
+            "gameTime": "2 - 21:28",
+            "label": "Kick-off",
+            "position": "1288500",
+            "half": "2",
+            "confidence": "0.43265536427497864"
+        },
+        {
+            "gameTime": "2 - 0:15",
+            "label": "Kick-off",
+            "position": "15000",
+            "half": "2",
+            "confidence": "0.343423455953598"
+        },
+        {
+            "gameTime": "2 - 41:36",
+            "label": "Kick-off",
+            "position": "2496000",
+            "half": "2",
+            "confidence": "0.3277697265148163"
+        },
+        {
+            "gameTime": "2 - 15:10",
+            "label": "Kick-off",
+            "position": "910000",
+            "half": "2",
+            "confidence": "0.22443175315856934"
+        },
+        {
+            "gameTime": "2 - 30:47",
+            "label": "Kick-off",
+            "position": "1847000",
+            "half": "2",
+            "confidence": "0.22369423508644104"
+        },
+        {
+            "gameTime": "2 - 37:13",
+            "label": "Kick-off",
+            "position": "2233000",
+            "half": "2",
+            "confidence": "0.1954112946987152"
+        },
+        {
+            "gameTime": "2 - 14:48",
+            "label": "Kick-off",
+            "position": "888500",
+            "half": "2",
+            "confidence": "0.1424022763967514"
+        },
+        {
+            "gameTime": "2 - 39:39",
+            "label": "Kick-off",
+            "position": "2379500",
+            "half": "2",
+            "confidence": "0.10970508307218552"
+        },
+        {
+            "gameTime": "2 - 20:39",
+            "label": "Goal",
+            "position": "1239000",
+            "half": "2",
+            "confidence": "0.9895232319831848"
+        },
+        {
+            "gameTime": "2 - 9:3",
+            "label": "Goal",
+            "position": "543000",
+            "half": "2",
+            "confidence": "0.5006535053253174"
+        },
+        {
+            "gameTime": "2 - 37:22",
+            "label": "Goal",
+            "position": "2242500",
+            "half": "2",
+            "confidence": "0.3247477412223816"
+        },
+        {
+            "gameTime": "2 - 36:20",
+            "label": "Goal",
+            "position": "2180000",
+            "half": "2",
+            "confidence": "0.23366978764533997"
+        },
+        {
+            "gameTime": "2 - 16:24",
+            "label": "Goal",
+            "position": "984000",
+            "half": "2",
+            "confidence": "0.1836731880903244"
+        },
+        {
+            "gameTime": "2 - 43:43",
+            "label": "Goal",
+            "position": "2623500",
+            "half": "2",
+            "confidence": "0.18259793519973755"
+        },
+        {
+            "gameTime": "2 - 20:54",
+            "label": "Goal",
+            "position": "1254000",
+            "half": "2",
+            "confidence": "0.16829335689544678"
+        },
+        {
+            "gameTime": "2 - 41:10",
+            "label": "Goal",
+            "position": "2470000",
+            "half": "2",
+            "confidence": "0.14262866973876953"
+        },
+        {
+            "gameTime": "2 - 19:24",
+            "label": "Goal",
+            "position": "1164500",
+            "half": "2",
+            "confidence": "0.13528895378112793"
+        },
+        {
+            "gameTime": "2 - 12:55",
+            "label": "Substitution",
+            "position": "775500",
+            "half": "2",
+            "confidence": "0.9982724189758301"
+        },
+        {
+            "gameTime": "2 - 41:51",
+            "label": "Substitution",
+            "position": "2511000",
+            "half": "2",
+            "confidence": "0.9830083847045898"
+        },
+        {
+            "gameTime": "2 - 29:7",
+            "label": "Substitution",
+            "position": "1747500",
+            "half": "2",
+            "confidence": "0.9579781889915466"
+        },
+        {
+            "gameTime": "2 - 22:2",
+            "label": "Substitution",
+            "position": "1322500",
+            "half": "2",
+            "confidence": "0.9573389887809753"
+        },
+        {
+            "gameTime": "2 - 30:45",
+            "label": "Substitution",
+            "position": "1845500",
+            "half": "2",
+            "confidence": "0.663852870464325"
+        },
+        {
+            "gameTime": "2 - 39:43",
+            "label": "Substitution",
+            "position": "2383500",
+            "half": "2",
+            "confidence": "0.5472610592842102"
+        },
+        {
+            "gameTime": "2 - 13:11",
+            "label": "Substitution",
+            "position": "791500",
+            "half": "2",
+            "confidence": "0.3990670442581177"
+        },
+        {
+            "gameTime": "2 - 37:31",
+            "label": "Substitution",
+            "position": "2251000",
+            "half": "2",
+            "confidence": "0.2773859202861786"
+        },
+        {
+            "gameTime": "2 - 42:14",
+            "label": "Substitution",
+            "position": "2534500",
+            "half": "2",
+            "confidence": "0.2725226581096649"
+        },
+        {
+            "gameTime": "2 - 34:20",
+            "label": "Substitution",
+            "position": "2060500",
+            "half": "2",
+            "confidence": "0.23941200971603394"
+        },
+        {
+            "gameTime": "2 - 35:2",
+            "label": "Substitution",
+            "position": "2102000",
+            "half": "2",
+            "confidence": "0.2134081870317459"
+        },
+        {
+            "gameTime": "2 - 0:51",
+            "label": "Substitution",
+            "position": "51500",
+            "half": "2",
+            "confidence": "0.1559203863143921"
+        },
+        {
+            "gameTime": "2 - 39:15",
+            "label": "Substitution",
+            "position": "2355500",
+            "half": "2",
+            "confidence": "0.15220122039318085"
+        },
+        {
+            "gameTime": "2 - 21:4",
+            "label": "Substitution",
+            "position": "1264000",
+            "half": "2",
+            "confidence": "0.1436404436826706"
+        },
+        {
+            "gameTime": "2 - 44:21",
+            "label": "Substitution",
+            "position": "2661500",
+            "half": "2",
+            "confidence": "0.1428454965353012"
+        },
+        {
+            "gameTime": "2 - 28:50",
+            "label": "Substitution",
+            "position": "1730500",
+            "half": "2",
+            "confidence": "0.13544997572898865"
+        },
+        {
+            "gameTime": "2 - 21:44",
+            "label": "Substitution",
+            "position": "1304000",
+            "half": "2",
+            "confidence": "0.13446399569511414"
+        },
+        {
+            "gameTime": "2 - 41:34",
+            "label": "Substitution",
+            "position": "2494500",
+            "half": "2",
+            "confidence": "0.10748108476400375"
+        },
+        {
+            "gameTime": "2 - 22:37",
+            "label": "Substitution",
+            "position": "1357000",
+            "half": "2",
+            "confidence": "0.10159570723772049"
+        },
+        {
+            "gameTime": "2 - 35:42",
+            "label": "Offside",
+            "position": "2142000",
+            "half": "2",
+            "confidence": "0.6660328507423401"
+        },
+        {
+            "gameTime": "2 - 24:52",
+            "label": "Offside",
+            "position": "1492500",
+            "half": "2",
+            "confidence": "0.5862012505531311"
+        },
+        {
+            "gameTime": "2 - 15:46",
+            "label": "Offside",
+            "position": "946000",
+            "half": "2",
+            "confidence": "0.5081818103790283"
+        },
+        {
+            "gameTime": "2 - 36:50",
+            "label": "Offside",
+            "position": "2210500",
+            "half": "2",
+            "confidence": "0.2661431133747101"
+        },
+        {
+            "gameTime": "2 - 19:19",
+            "label": "Offside",
+            "position": "1159500",
+            "half": "2",
+            "confidence": "0.2113036960363388"
+        },
+        {
+            "gameTime": "2 - 2:32",
+            "label": "Offside",
+            "position": "152000",
+            "half": "2",
+            "confidence": "0.16185259819030762"
+        },
+        {
+            "gameTime": "2 - 25:9",
+            "label": "Offside",
+            "position": "1509500",
+            "half": "2",
+            "confidence": "0.12527194619178772"
+        },
+        {
+            "gameTime": "2 - 17:13",
+            "label": "Offside",
+            "position": "1033000",
+            "half": "2",
+            "confidence": "0.10807184875011444"
+        },
+        {
+            "gameTime": "2 - 40:15",
+            "label": "Shots on target",
+            "position": "2415500",
+            "half": "2",
+            "confidence": "0.6526673436164856"
+        },
+        {
+            "gameTime": "2 - 43:8",
+            "label": "Shots on target",
+            "position": "2588000",
+            "half": "2",
+            "confidence": "0.596455991268158"
+        },
+        {
+            "gameTime": "2 - 20:38",
+            "label": "Shots on target",
+            "position": "1238000",
+            "half": "2",
+            "confidence": "0.5927724242210388"
+        },
+        {
+            "gameTime": "2 - 17:8",
+            "label": "Shots on target",
+            "position": "1028500",
+            "half": "2",
+            "confidence": "0.5124378204345703"
+        },
+        {
+            "gameTime": "2 - 43:43",
+            "label": "Shots on target",
+            "position": "2623500",
+            "half": "2",
+            "confidence": "0.5081562995910645"
+        },
+        {
+            "gameTime": "2 - 38:23",
+            "label": "Shots on target",
+            "position": "2303500",
+            "half": "2",
+            "confidence": "0.4798735976219177"
+        },
+        {
+            "gameTime": "2 - 9:2",
+            "label": "Shots on target",
+            "position": "542500",
+            "half": "2",
+            "confidence": "0.47237950563430786"
+        },
+        {
+            "gameTime": "2 - 29:58",
+            "label": "Shots on target",
+            "position": "1798500",
+            "half": "2",
+            "confidence": "0.4289679527282715"
+        },
+        {
+            "gameTime": "2 - 37:23",
+            "label": "Shots on target",
+            "position": "2243000",
+            "half": "2",
+            "confidence": "0.4287649691104889"
+        },
+        {
+            "gameTime": "2 - 36:40",
+            "label": "Shots on target",
+            "position": "2200000",
+            "half": "2",
+            "confidence": "0.36638399958610535"
+        },
+        {
+            "gameTime": "2 - 19:22",
+            "label": "Shots on target",
+            "position": "1162500",
+            "half": "2",
+            "confidence": "0.3385039269924164"
+        },
+        {
+            "gameTime": "2 - 41:9",
+            "label": "Shots on target",
+            "position": "2469500",
+            "half": "2",
+            "confidence": "0.3244319260120392"
+        },
+        {
+            "gameTime": "2 - 16:42",
+            "label": "Shots on target",
+            "position": "1002500",
+            "half": "2",
+            "confidence": "0.26778629422187805"
+        },
+        {
+            "gameTime": "2 - 5:34",
+            "label": "Shots on target",
+            "position": "334500",
+            "half": "2",
+            "confidence": "0.26526421308517456"
+        },
+        {
+            "gameTime": "2 - 36:20",
+            "label": "Shots on target",
+            "position": "2180000",
+            "half": "2",
+            "confidence": "0.2580931484699249"
+        },
+        {
+            "gameTime": "2 - 36:55",
+            "label": "Shots on target",
+            "position": "2215000",
+            "half": "2",
+            "confidence": "0.24220183491706848"
+        },
+        {
+            "gameTime": "2 - 20:53",
+            "label": "Shots on target",
+            "position": "1253500",
+            "half": "2",
+            "confidence": "0.17091433703899384"
+        },
+        {
+            "gameTime": "2 - 7:21",
+            "label": "Shots on target",
+            "position": "441000",
+            "half": "2",
+            "confidence": "0.16894860565662384"
+        },
+        {
+            "gameTime": "2 - 26:6",
+            "label": "Shots on target",
+            "position": "1566500",
+            "half": "2",
+            "confidence": "0.16658826172351837"
+        },
+        {
+            "gameTime": "2 - 32:22",
+            "label": "Shots on target",
+            "position": "1942000",
+            "half": "2",
+            "confidence": "0.15321579575538635"
+        },
+        {
+            "gameTime": "2 - 38:51",
+            "label": "Shots on target",
+            "position": "2331500",
+            "half": "2",
+            "confidence": "0.14449505507946014"
+        },
+        {
+            "gameTime": "2 - 42:52",
+            "label": "Shots on target",
+            "position": "2572500",
+            "half": "2",
+            "confidence": "0.14352509379386902"
+        },
+        {
+            "gameTime": "2 - 40:30",
+            "label": "Shots on target",
+            "position": "2430500",
+            "half": "2",
+            "confidence": "0.13375958800315857"
+        },
+        {
+            "gameTime": "2 - 26:30",
+            "label": "Shots on target",
+            "position": "1590500",
+            "half": "2",
+            "confidence": "0.13004925847053528"
+        },
+        {
+            "gameTime": "2 - 33:30",
+            "label": "Shots on target",
+            "position": "2010000",
+            "half": "2",
+            "confidence": "0.1273849755525589"
+        },
+        {
+            "gameTime": "2 - 31:59",
+            "label": "Shots on target",
+            "position": "1919500",
+            "half": "2",
+            "confidence": "0.12274809926748276"
+        },
+        {
+            "gameTime": "2 - 8:22",
+            "label": "Shots on target",
+            "position": "502000",
+            "half": "2",
+            "confidence": "0.11913622915744781"
+        },
+        {
+            "gameTime": "2 - 13:16",
+            "label": "Shots on target",
+            "position": "796000",
+            "half": "2",
+            "confidence": "0.10937085747718811"
+        },
+        {
+            "gameTime": "2 - 16:23",
+            "label": "Shots on target",
+            "position": "983000",
+            "half": "2",
+            "confidence": "0.10469718277454376"
+        },
+        {
+            "gameTime": "2 - 25:38",
+            "label": "Shots on target",
+            "position": "1538000",
+            "half": "2",
+            "confidence": "0.10443376749753952"
+        },
+        {
+            "gameTime": "2 - 20:3",
+            "label": "Shots on target",
+            "position": "1203500",
+            "half": "2",
+            "confidence": "0.10143086314201355"
+        },
+        {
+            "gameTime": "2 - 17:17",
+            "label": "Shots off target",
+            "position": "1037500",
+            "half": "2",
+            "confidence": "0.7450974583625793"
+        },
+        {
+            "gameTime": "2 - 33:32",
+            "label": "Shots off target",
+            "position": "2012500",
+            "half": "2",
+            "confidence": "0.5053343176841736"
+        },
+        {
+            "gameTime": "2 - 7:28",
+            "label": "Shots off target",
+            "position": "448500",
+            "half": "2",
+            "confidence": "0.45048514008522034"
+        },
+        {
+            "gameTime": "2 - 43:10",
+            "label": "Shots off target",
+            "position": "2590000",
+            "half": "2",
+            "confidence": "0.31139320135116577"
+        },
+        {
+            "gameTime": "2 - 41:10",
+            "label": "Shots off target",
+            "position": "2470500",
+            "half": "2",
+            "confidence": "0.3083389699459076"
+        },
+        {
+            "gameTime": "2 - 36:58",
+            "label": "Shots off target",
+            "position": "2218500",
+            "half": "2",
+            "confidence": "0.3024576008319855"
+        },
+        {
+            "gameTime": "2 - 20:36",
+            "label": "Shots off target",
+            "position": "1236000",
+            "half": "2",
+            "confidence": "0.23971521854400635"
+        },
+        {
+            "gameTime": "2 - 30:2",
+            "label": "Shots off target",
+            "position": "1802500",
+            "half": "2",
+            "confidence": "0.21320202946662903"
+        },
+        {
+            "gameTime": "2 - 5:42",
+            "label": "Shots off target",
+            "position": "342000",
+            "half": "2",
+            "confidence": "0.20640693604946136"
+        },
+        {
+            "gameTime": "2 - 37:33",
+            "label": "Shots off target",
+            "position": "2253000",
+            "half": "2",
+            "confidence": "0.18990761041641235"
+        },
+        {
+            "gameTime": "2 - 36:42",
+            "label": "Shots off target",
+            "position": "2202000",
+            "half": "2",
+            "confidence": "0.17948441207408905"
+        },
+        {
+            "gameTime": "2 - 1:11",
+            "label": "Shots off target",
+            "position": "71500",
+            "half": "2",
+            "confidence": "0.17875157296657562"
+        },
+        {
+            "gameTime": "2 - 8:21",
+            "label": "Shots off target",
+            "position": "501500",
+            "half": "2",
+            "confidence": "0.1710885465145111"
+        },
+        {
+            "gameTime": "2 - 29:26",
+            "label": "Shots off target",
+            "position": "1766000",
+            "half": "2",
+            "confidence": "0.16807420551776886"
+        },
+        {
+            "gameTime": "2 - 31:49",
+            "label": "Shots off target",
+            "position": "1909000",
+            "half": "2",
+            "confidence": "0.16676795482635498"
+        },
+        {
+            "gameTime": "2 - 40:23",
+            "label": "Shots off target",
+            "position": "2423000",
+            "half": "2",
+            "confidence": "0.16336409747600555"
+        },
+        {
+            "gameTime": "2 - 16:43",
+            "label": "Shots off target",
+            "position": "1003500",
+            "half": "2",
+            "confidence": "0.15338468551635742"
+        },
+        {
+            "gameTime": "2 - 43:39",
+            "label": "Shots off target",
+            "position": "2619500",
+            "half": "2",
+            "confidence": "0.14454896748065948"
+        },
+        {
+            "gameTime": "2 - 17:2",
+            "label": "Shots off target",
+            "position": "1022000",
+            "half": "2",
+            "confidence": "0.13128912448883057"
+        },
+        {
+            "gameTime": "2 - 36:10",
+            "label": "Shots off target",
+            "position": "2170500",
+            "half": "2",
+            "confidence": "0.10856568068265915"
+        },
+        {
+            "gameTime": "2 - 37:44",
+            "label": "Clearance",
+            "position": "2264000",
+            "half": "2",
+            "confidence": "0.8682119846343994"
+        },
+        {
+            "gameTime": "2 - 1:20",
+            "label": "Clearance",
+            "position": "80500",
+            "half": "2",
+            "confidence": "0.7343473434448242"
+        },
+        {
+            "gameTime": "2 - 42:7",
+            "label": "Clearance",
+            "position": "2527000",
+            "half": "2",
+            "confidence": "0.6247256994247437"
+        },
+        {
+            "gameTime": "2 - 35:16",
+            "label": "Clearance",
+            "position": "2116000",
+            "half": "2",
+            "confidence": "0.5895530581474304"
+        },
+        {
+            "gameTime": "2 - 22:9",
+            "label": "Clearance",
+            "position": "1329000",
+            "half": "2",
+            "confidence": "0.5420765280723572"
+        },
+        {
+            "gameTime": "2 - 7:37",
+            "label": "Clearance",
+            "position": "457500",
+            "half": "2",
+            "confidence": "0.4912559390068054"
+        },
+        {
+            "gameTime": "2 - 21:1",
+            "label": "Clearance",
+            "position": "1261000",
+            "half": "2",
+            "confidence": "0.46260321140289307"
+        },
+        {
+            "gameTime": "2 - 43:49",
+            "label": "Clearance",
+            "position": "2629000",
+            "half": "2",
+            "confidence": "0.4206804037094116"
+        },
+        {
+            "gameTime": "2 - 17:41",
+            "label": "Clearance",
+            "position": "1061500",
+            "half": "2",
+            "confidence": "0.3684397339820862"
+        },
+        {
+            "gameTime": "2 - 9:52",
+            "label": "Clearance",
+            "position": "592500",
+            "half": "2",
+            "confidence": "0.36387190222740173"
+        },
+        {
+            "gameTime": "2 - 35:44",
+            "label": "Clearance",
+            "position": "2144500",
+            "half": "2",
+            "confidence": "0.35014232993125916"
+        },
+        {
+            "gameTime": "2 - 43:33",
+            "label": "Clearance",
+            "position": "2613500",
+            "half": "2",
+            "confidence": "0.34852343797683716"
+        },
+        {
+            "gameTime": "2 - 27:35",
+            "label": "Clearance",
+            "position": "1655000",
+            "half": "2",
+            "confidence": "0.3358042240142822"
+        },
+        {
+            "gameTime": "2 - 32:56",
+            "label": "Clearance",
+            "position": "1976000",
+            "half": "2",
+            "confidence": "0.31481102108955383"
+        },
+        {
+            "gameTime": "2 - 13:19",
+            "label": "Clearance",
+            "position": "799000",
+            "half": "2",
+            "confidence": "0.27712276577949524"
+        },
+        {
+            "gameTime": "2 - 36:25",
+            "label": "Clearance",
+            "position": "2185000",
+            "half": "2",
+            "confidence": "0.25470343232154846"
+        },
+        {
+            "gameTime": "2 - 2:43",
+            "label": "Clearance",
+            "position": "163000",
+            "half": "2",
+            "confidence": "0.2509987950325012"
+        },
+        {
+            "gameTime": "2 - 34:4",
+            "label": "Clearance",
+            "position": "2044500",
+            "half": "2",
+            "confidence": "0.24366742372512817"
+        },
+        {
+            "gameTime": "2 - 7:55",
+            "label": "Clearance",
+            "position": "475500",
+            "half": "2",
+            "confidence": "0.24298705160617828"
+        },
+        {
+            "gameTime": "2 - 28:57",
+            "label": "Clearance",
+            "position": "1737500",
+            "half": "2",
+            "confidence": "0.21716518700122833"
+        },
+        {
+            "gameTime": "2 - 6:2",
+            "label": "Clearance",
+            "position": "362000",
+            "half": "2",
+            "confidence": "0.21237975358963013"
+        },
+        {
+            "gameTime": "2 - 0:10",
+            "label": "Clearance",
+            "position": "10000",
+            "half": "2",
+            "confidence": "0.2075679898262024"
+        },
+        {
+            "gameTime": "2 - 22:45",
+            "label": "Clearance",
+            "position": "1365500",
+            "half": "2",
+            "confidence": "0.1853126734495163"
+        },
+        {
+            "gameTime": "2 - 40:52",
+            "label": "Clearance",
+            "position": "2452500",
+            "half": "2",
+            "confidence": "0.18358206748962402"
+        },
+        {
+            "gameTime": "2 - 20:18",
+            "label": "Clearance",
+            "position": "1218500",
+            "half": "2",
+            "confidence": "0.1542614996433258"
+        },
+        {
+            "gameTime": "2 - 39:38",
+            "label": "Clearance",
+            "position": "2378500",
+            "half": "2",
+            "confidence": "0.14556634426116943"
+        },
+        {
+            "gameTime": "2 - 24:59",
+            "label": "Clearance",
+            "position": "1499000",
+            "half": "2",
+            "confidence": "0.13786298036575317"
+        },
+        {
+            "gameTime": "2 - 36:50",
+            "label": "Clearance",
+            "position": "2210500",
+            "half": "2",
+            "confidence": "0.13157528638839722"
+        },
+        {
+            "gameTime": "2 - 0:51",
+            "label": "Clearance",
+            "position": "51500",
+            "half": "2",
+            "confidence": "0.12796057760715485"
+        },
+        {
+            "gameTime": "2 - 41:40",
+            "label": "Clearance",
+            "position": "2500000",
+            "half": "2",
+            "confidence": "0.11706840991973877"
+        },
+        {
+            "gameTime": "2 - 25:19",
+            "label": "Clearance",
+            "position": "1519500",
+            "half": "2",
+            "confidence": "0.10889658331871033"
+        },
+        {
+            "gameTime": "2 - 33:48",
+            "label": "Clearance",
+            "position": "2028500",
+            "half": "2",
+            "confidence": "0.1074848398566246"
+        },
+        {
+            "gameTime": "2 - 30:47",
+            "label": "Clearance",
+            "position": "1847500",
+            "half": "2",
+            "confidence": "0.10718443244695663"
+        },
+        {
+            "gameTime": "2 - 40:5",
+            "label": "Clearance",
+            "position": "2405500",
+            "half": "2",
+            "confidence": "0.10259208083152771"
+        },
+        {
+            "gameTime": "2 - 17:53",
+            "label": "Ball out of play",
+            "position": "1073500",
+            "half": "2",
+            "confidence": "0.9815147519111633"
+        },
+        {
+            "gameTime": "2 - 32:12",
+            "label": "Ball out of play",
+            "position": "1932000",
+            "half": "2",
+            "confidence": "0.9725136160850525"
+        },
+        {
+            "gameTime": "2 - 31:49",
+            "label": "Ball out of play",
+            "position": "1909000",
+            "half": "2",
+            "confidence": "0.9718680381774902"
+        },
+        {
+            "gameTime": "2 - 26:41",
+            "label": "Ball out of play",
+            "position": "1601000",
+            "half": "2",
+            "confidence": "0.9681761264801025"
+        },
+        {
+            "gameTime": "2 - 16:29",
+            "label": "Ball out of play",
+            "position": "989500",
+            "half": "2",
+            "confidence": "0.9501827955245972"
+        },
+        {
+            "gameTime": "2 - 40:27",
+            "label": "Ball out of play",
+            "position": "2427000",
+            "half": "2",
+            "confidence": "0.9199782013893127"
+        },
+        {
+            "gameTime": "2 - 29:26",
+            "label": "Ball out of play",
+            "position": "1766000",
+            "half": "2",
+            "confidence": "0.9142476320266724"
+        },
+        {
+            "gameTime": "2 - 30:9",
+            "label": "Ball out of play",
+            "position": "1809500",
+            "half": "2",
+            "confidence": "0.9057925343513489"
+        },
+        {
+            "gameTime": "2 - 17:17",
+            "label": "Ball out of play",
+            "position": "1037500",
+            "half": "2",
+            "confidence": "0.8939403295516968"
+        },
+        {
+            "gameTime": "2 - 1:2",
+            "label": "Ball out of play",
+            "position": "62500",
+            "half": "2",
+            "confidence": "0.8931943774223328"
+        },
+        {
+            "gameTime": "2 - 39:13",
+            "label": "Ball out of play",
+            "position": "2353500",
+            "half": "2",
+            "confidence": "0.8854591250419617"
+        },
+        {
+            "gameTime": "2 - 43:4",
+            "label": "Ball out of play",
+            "position": "2584000",
+            "half": "2",
+            "confidence": "0.8663163781166077"
+        },
+        {
+            "gameTime": "2 - 22:20",
+            "label": "Ball out of play",
+            "position": "1340500",
+            "half": "2",
+            "confidence": "0.8523792028427124"
+        },
+        {
+            "gameTime": "2 - 33:32",
+            "label": "Ball out of play",
+            "position": "2012000",
+            "half": "2",
+            "confidence": "0.8493121862411499"
+        },
+        {
+            "gameTime": "2 - 36:16",
+            "label": "Ball out of play",
+            "position": "2176500",
+            "half": "2",
+            "confidence": "0.8423999547958374"
+        },
+        {
+            "gameTime": "2 - 13:30",
+            "label": "Ball out of play",
+            "position": "810000",
+            "half": "2",
+            "confidence": "0.8334089517593384"
+        },
+        {
+            "gameTime": "2 - 4:53",
+            "label": "Ball out of play",
+            "position": "293000",
+            "half": "2",
+            "confidence": "0.8258912563323975"
+        },
+        {
+            "gameTime": "2 - 20:33",
+            "label": "Ball out of play",
+            "position": "1233500",
+            "half": "2",
+            "confidence": "0.8247309327125549"
+        },
+        {
+            "gameTime": "2 - 44:21",
+            "label": "Ball out of play",
+            "position": "2661000",
+            "half": "2",
+            "confidence": "0.8237839341163635"
+        },
+        {
+            "gameTime": "2 - 41:14",
+            "label": "Ball out of play",
+            "position": "2474000",
+            "half": "2",
+            "confidence": "0.820697546005249"
+        },
+        {
+            "gameTime": "2 - 1:30",
+            "label": "Ball out of play",
+            "position": "90500",
+            "half": "2",
+            "confidence": "0.772126317024231"
+        },
+        {
+            "gameTime": "2 - 36:47",
+            "label": "Ball out of play",
+            "position": "2207500",
+            "half": "2",
+            "confidence": "0.6610972285270691"
+        },
+        {
+            "gameTime": "2 - 28:42",
+            "label": "Ball out of play",
+            "position": "1722500",
+            "half": "2",
+            "confidence": "0.660744845867157"
+        },
+        {
+            "gameTime": "2 - 2:27",
+            "label": "Ball out of play",
+            "position": "147500",
+            "half": "2",
+            "confidence": "0.6459276080131531"
+        },
+        {
+            "gameTime": "2 - 24:58",
+            "label": "Ball out of play",
+            "position": "1498000",
+            "half": "2",
+            "confidence": "0.6398824453353882"
+        },
+        {
+            "gameTime": "2 - 7:30",
+            "label": "Ball out of play",
+            "position": "450500",
+            "half": "2",
+            "confidence": "0.6376705765724182"
+        },
+        {
+            "gameTime": "2 - 43:39",
+            "label": "Ball out of play",
+            "position": "2619000",
+            "half": "2",
+            "confidence": "0.5755495429039001"
+        },
+        {
+            "gameTime": "2 - 7:50",
+            "label": "Ball out of play",
+            "position": "470000",
+            "half": "2",
+            "confidence": "0.5721616148948669"
+        },
+        {
+            "gameTime": "2 - 34:1",
+            "label": "Ball out of play",
+            "position": "2041000",
+            "half": "2",
+            "confidence": "0.5715206265449524"
+        },
+        {
+            "gameTime": "2 - 22:35",
+            "label": "Ball out of play",
+            "position": "1355500",
+            "half": "2",
+            "confidence": "0.5584850907325745"
+        },
+        {
+            "gameTime": "2 - 32:27",
+            "label": "Ball out of play",
+            "position": "1947000",
+            "half": "2",
+            "confidence": "0.5539097785949707"
+        },
+        {
+            "gameTime": "2 - 31:0",
+            "label": "Ball out of play",
+            "position": "1860500",
+            "half": "2",
+            "confidence": "0.49893102049827576"
+        },
+        {
+            "gameTime": "2 - 15:48",
+            "label": "Ball out of play",
+            "position": "948500",
+            "half": "2",
+            "confidence": "0.4857034683227539"
+        },
+        {
+            "gameTime": "2 - 14:19",
+            "label": "Ball out of play",
+            "position": "859500",
+            "half": "2",
+            "confidence": "0.47247210144996643"
+        },
+        {
+            "gameTime": "2 - 39:46",
+            "label": "Ball out of play",
+            "position": "2386500",
+            "half": "2",
+            "confidence": "0.4702746570110321"
+        },
+        {
+            "gameTime": "2 - 8:38",
+            "label": "Ball out of play",
+            "position": "518000",
+            "half": "2",
+            "confidence": "0.4669327139854431"
+        },
+        {
+            "gameTime": "2 - 43:59",
+            "label": "Ball out of play",
+            "position": "2639500",
+            "half": "2",
+            "confidence": "0.4438019096851349"
+        },
+        {
+            "gameTime": "2 - 37:31",
+            "label": "Ball out of play",
+            "position": "2251000",
+            "half": "2",
+            "confidence": "0.43980976939201355"
+        },
+        {
+            "gameTime": "2 - 25:49",
+            "label": "Ball out of play",
+            "position": "1549500",
+            "half": "2",
+            "confidence": "0.4237384498119354"
+        },
+        {
+            "gameTime": "2 - 0:42",
+            "label": "Ball out of play",
+            "position": "42000",
+            "half": "2",
+            "confidence": "0.40588662028312683"
+        },
+        {
+            "gameTime": "2 - 44:59",
+            "label": "Ball out of play",
+            "position": "2699000",
+            "half": "2",
+            "confidence": "0.4047184884548187"
+        },
+        {
+            "gameTime": "2 - 35:41",
+            "label": "Ball out of play",
+            "position": "2141000",
+            "half": "2",
+            "confidence": "0.3585606813430786"
+        },
+        {
+            "gameTime": "2 - 9:33",
+            "label": "Ball out of play",
+            "position": "573000",
+            "half": "2",
+            "confidence": "0.34417858719825745"
+        },
+        {
+            "gameTime": "2 - 42:17",
+            "label": "Ball out of play",
+            "position": "2537000",
+            "half": "2",
+            "confidence": "0.3037090003490448"
+        },
+        {
+            "gameTime": "2 - 8:5",
+            "label": "Ball out of play",
+            "position": "485000",
+            "half": "2",
+            "confidence": "0.29076656699180603"
+        },
+        {
+            "gameTime": "2 - 12:53",
+            "label": "Ball out of play",
+            "position": "773000",
+            "half": "2",
+            "confidence": "0.287802517414093"
+        },
+        {
+            "gameTime": "2 - 35:9",
+            "label": "Ball out of play",
+            "position": "2109500",
+            "half": "2",
+            "confidence": "0.277031272649765"
+        },
+        {
+            "gameTime": "2 - 29:41",
+            "label": "Ball out of play",
+            "position": "1781000",
+            "half": "2",
+            "confidence": "0.2657199203968048"
+        },
+        {
+            "gameTime": "2 - 38:22",
+            "label": "Ball out of play",
+            "position": "2302000",
+            "half": "2",
+            "confidence": "0.26446670293807983"
+        },
+        {
+            "gameTime": "2 - 32:51",
+            "label": "Ball out of play",
+            "position": "1971500",
+            "half": "2",
+            "confidence": "0.2612656056880951"
+        },
+        {
+            "gameTime": "2 - 19:8",
+            "label": "Ball out of play",
+            "position": "1148500",
+            "half": "2",
+            "confidence": "0.2577109932899475"
+        },
+        {
+            "gameTime": "2 - 27:15",
+            "label": "Ball out of play",
+            "position": "1635000",
+            "half": "2",
+            "confidence": "0.2548481225967407"
+        },
+        {
+            "gameTime": "2 - 40:42",
+            "label": "Ball out of play",
+            "position": "2442000",
+            "half": "2",
+            "confidence": "0.2491331398487091"
+        },
+        {
+            "gameTime": "2 - 13:14",
+            "label": "Ball out of play",
+            "position": "794500",
+            "half": "2",
+            "confidence": "0.2419193536043167"
+        },
+        {
+            "gameTime": "2 - 34:49",
+            "label": "Ball out of play",
+            "position": "2089500",
+            "half": "2",
+            "confidence": "0.22808706760406494"
+        },
+        {
+            "gameTime": "2 - 12:28",
+            "label": "Ball out of play",
+            "position": "748000",
+            "half": "2",
+            "confidence": "0.22340549528598785"
+        },
+        {
+            "gameTime": "2 - 2:11",
+            "label": "Ball out of play",
+            "position": "131500",
+            "half": "2",
+            "confidence": "0.21761713922023773"
+        },
+        {
+            "gameTime": "2 - 5:10",
+            "label": "Ball out of play",
+            "position": "310000",
+            "half": "2",
+            "confidence": "0.2167128175497055"
+        },
+        {
+            "gameTime": "2 - 16:6",
+            "label": "Ball out of play",
+            "position": "966000",
+            "half": "2",
+            "confidence": "0.2141742706298828"
+        },
+        {
+            "gameTime": "2 - 16:57",
+            "label": "Ball out of play",
+            "position": "1017500",
+            "half": "2",
+            "confidence": "0.21051478385925293"
+        },
+        {
+            "gameTime": "2 - 1:45",
+            "label": "Ball out of play",
+            "position": "105500",
+            "half": "2",
+            "confidence": "0.1854662448167801"
+        },
+        {
+            "gameTime": "2 - 18:33",
+            "label": "Ball out of play",
+            "position": "1113500",
+            "half": "2",
+            "confidence": "0.1812230795621872"
+        },
+        {
+            "gameTime": "2 - 38:52",
+            "label": "Ball out of play",
+            "position": "2332000",
+            "half": "2",
+            "confidence": "0.17946849763393402"
+        },
+        {
+            "gameTime": "2 - 6:53",
+            "label": "Ball out of play",
+            "position": "413500",
+            "half": "2",
+            "confidence": "0.1769690215587616"
+        },
+        {
+            "gameTime": "2 - 20:15",
+            "label": "Ball out of play",
+            "position": "1215000",
+            "half": "2",
+            "confidence": "0.17646674811840057"
+        },
+        {
+            "gameTime": "2 - 9:3",
+            "label": "Ball out of play",
+            "position": "543500",
+            "half": "2",
+            "confidence": "0.17538556456565857"
+        },
+        {
+            "gameTime": "2 - 26:22",
+            "label": "Ball out of play",
+            "position": "1582000",
+            "half": "2",
+            "confidence": "0.1733972430229187"
+        },
+        {
+            "gameTime": "2 - 5:33",
+            "label": "Ball out of play",
+            "position": "333500",
+            "half": "2",
+            "confidence": "0.16424566507339478"
+        },
+        {
+            "gameTime": "2 - 4:37",
+            "label": "Ball out of play",
+            "position": "277500",
+            "half": "2",
+            "confidence": "0.1600739061832428"
+        },
+        {
+            "gameTime": "2 - 33:10",
+            "label": "Ball out of play",
+            "position": "1990000",
+            "half": "2",
+            "confidence": "0.15754744410514832"
+        },
+        {
+            "gameTime": "2 - 13:45",
+            "label": "Ball out of play",
+            "position": "825000",
+            "half": "2",
+            "confidence": "0.1534067541360855"
+        },
+        {
+            "gameTime": "2 - 26:57",
+            "label": "Ball out of play",
+            "position": "1617000",
+            "half": "2",
+            "confidence": "0.15174072980880737"
+        },
+        {
+            "gameTime": "2 - 2:42",
+            "label": "Ball out of play",
+            "position": "162500",
+            "half": "2",
+            "confidence": "0.13870574533939362"
+        },
+        {
+            "gameTime": "2 - 40:4",
+            "label": "Ball out of play",
+            "position": "2404500",
+            "half": "2",
+            "confidence": "0.13448558747768402"
+        },
+        {
+            "gameTime": "2 - 4:22",
+            "label": "Ball out of play",
+            "position": "262000",
+            "half": "2",
+            "confidence": "0.13281814754009247"
+        },
+        {
+            "gameTime": "2 - 6:18",
+            "label": "Ball out of play",
+            "position": "378000",
+            "half": "2",
+            "confidence": "0.12837979197502136"
+        },
+        {
+            "gameTime": "2 - 20:49",
+            "label": "Ball out of play",
+            "position": "1249000",
+            "half": "2",
+            "confidence": "0.1280626654624939"
+        },
+        {
+            "gameTime": "2 - 26:4",
+            "label": "Ball out of play",
+            "position": "1564500",
+            "half": "2",
+            "confidence": "0.12295938283205032"
+        },
+        {
+            "gameTime": "2 - 28:27",
+            "label": "Ball out of play",
+            "position": "1707000",
+            "half": "2",
+            "confidence": "0.12050487101078033"
+        },
+        {
+            "gameTime": "2 - 19:55",
+            "label": "Ball out of play",
+            "position": "1195500",
+            "half": "2",
+            "confidence": "0.1201457604765892"
+        },
+        {
+            "gameTime": "2 - 30:24",
+            "label": "Ball out of play",
+            "position": "1824500",
+            "half": "2",
+            "confidence": "0.11332805454730988"
+        },
+        {
+            "gameTime": "2 - 5:52",
+            "label": "Ball out of play",
+            "position": "352000",
+            "half": "2",
+            "confidence": "0.111944779753685"
+        },
+        {
+            "gameTime": "2 - 37:2",
+            "label": "Ball out of play",
+            "position": "2222500",
+            "half": "2",
+            "confidence": "0.10963808000087738"
+        },
+        {
+            "gameTime": "2 - 15:7",
+            "label": "Ball out of play",
+            "position": "907000",
+            "half": "2",
+            "confidence": "0.10695847868919373"
+        },
+        {
+            "gameTime": "2 - 3:49",
+            "label": "Ball out of play",
+            "position": "229500",
+            "half": "2",
+            "confidence": "0.10464650392532349"
+        },
+        {
+            "gameTime": "2 - 37:57",
+            "label": "Ball out of play",
+            "position": "2277000",
+            "half": "2",
+            "confidence": "0.10214690864086151"
+        },
+        {
+            "gameTime": "2 - 14:4",
+            "label": "Ball out of play",
+            "position": "844000",
+            "half": "2",
+            "confidence": "0.10177433490753174"
+        },
+        {
+            "gameTime": "2 - 32:13",
+            "label": "Throw-in",
+            "position": "1933500",
+            "half": "2",
+            "confidence": "0.9990100860595703"
+        },
+        {
+            "gameTime": "2 - 31:50",
+            "label": "Throw-in",
+            "position": "1910500",
+            "half": "2",
+            "confidence": "0.9561314582824707"
+        },
+        {
+            "gameTime": "2 - 18:4",
+            "label": "Throw-in",
+            "position": "1084000",
+            "half": "2",
+            "confidence": "0.9377111196517944"
+        },
+        {
+            "gameTime": "2 - 22:32",
+            "label": "Throw-in",
+            "position": "1352500",
+            "half": "2",
+            "confidence": "0.8513102531433105"
+        },
+        {
+            "gameTime": "2 - 1:33",
+            "label": "Throw-in",
+            "position": "93000",
+            "half": "2",
+            "confidence": "0.8062313795089722"
+        },
+        {
+            "gameTime": "2 - 13:31",
+            "label": "Throw-in",
+            "position": "811000",
+            "half": "2",
+            "confidence": "0.7771680355072021"
+        },
+        {
+            "gameTime": "2 - 5:1",
+            "label": "Throw-in",
+            "position": "301000",
+            "half": "2",
+            "confidence": "0.7657731175422668"
+        },
+        {
+            "gameTime": "2 - 39:15",
+            "label": "Throw-in",
+            "position": "2355000",
+            "half": "2",
+            "confidence": "0.7190272808074951"
+        },
+        {
+            "gameTime": "2 - 0:54",
+            "label": "Throw-in",
+            "position": "54000",
+            "half": "2",
+            "confidence": "0.685002326965332"
+        },
+        {
+            "gameTime": "2 - 26:41",
+            "label": "Throw-in",
+            "position": "1601000",
+            "half": "2",
+            "confidence": "0.6498395204544067"
+        },
+        {
+            "gameTime": "2 - 44:33",
+            "label": "Throw-in",
+            "position": "2673000",
+            "half": "2",
+            "confidence": "0.6406810879707336"
+        },
+        {
+            "gameTime": "2 - 2:35",
+            "label": "Throw-in",
+            "position": "155500",
+            "half": "2",
+            "confidence": "0.607077419757843"
+        },
+        {
+            "gameTime": "2 - 22:7",
+            "label": "Throw-in",
+            "position": "1327000",
+            "half": "2",
+            "confidence": "0.5702692866325378"
+        },
+        {
+            "gameTime": "2 - 13:3",
+            "label": "Throw-in",
+            "position": "783000",
+            "half": "2",
+            "confidence": "0.5448338985443115"
+        },
+        {
+            "gameTime": "2 - 33:42",
+            "label": "Throw-in",
+            "position": "2022000",
+            "half": "2",
+            "confidence": "0.522641122341156"
+        },
+        {
+            "gameTime": "2 - 30:54",
+            "label": "Throw-in",
+            "position": "1854500",
+            "half": "2",
+            "confidence": "0.5164674520492554"
+        },
+        {
+            "gameTime": "2 - 44:4",
+            "label": "Throw-in",
+            "position": "2644000",
+            "half": "2",
+            "confidence": "0.5138262510299683"
+        },
+        {
+            "gameTime": "2 - 39:42",
+            "label": "Throw-in",
+            "position": "2382500",
+            "half": "2",
+            "confidence": "0.48461487889289856"
+        },
+        {
+            "gameTime": "2 - 42:17",
+            "label": "Throw-in",
+            "position": "2537500",
+            "half": "2",
+            "confidence": "0.4520331621170044"
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "Throw-in",
+            "position": "1870500",
+            "half": "2",
+            "confidence": "0.4449397623538971"
+        },
+        {
+            "gameTime": "2 - 8:0",
+            "label": "Throw-in",
+            "position": "480500",
+            "half": "2",
+            "confidence": "0.4263594150543213"
+        },
+        {
+            "gameTime": "2 - 32:30",
+            "label": "Throw-in",
+            "position": "1950000",
+            "half": "2",
+            "confidence": "0.4135638177394867"
+        },
+        {
+            "gameTime": "2 - 20:30",
+            "label": "Throw-in",
+            "position": "1230000",
+            "half": "2",
+            "confidence": "0.3951107859611511"
+        },
+        {
+            "gameTime": "2 - 22:47",
+            "label": "Throw-in",
+            "position": "1367500",
+            "half": "2",
+            "confidence": "0.3361733853816986"
+        },
+        {
+            "gameTime": "2 - 24:59",
+            "label": "Throw-in",
+            "position": "1499500",
+            "half": "2",
+            "confidence": "0.31513336300849915"
+        },
+        {
+            "gameTime": "2 - 13:46",
+            "label": "Throw-in",
+            "position": "826000",
+            "half": "2",
+            "confidence": "0.301821768283844"
+        },
+        {
+            "gameTime": "2 - 8:53",
+            "label": "Throw-in",
+            "position": "533500",
+            "half": "2",
+            "confidence": "0.27176275849342346"
+        },
+        {
+            "gameTime": "2 - 7:44",
+            "label": "Throw-in",
+            "position": "464500",
+            "half": "2",
+            "confidence": "0.26549232006073"
+        },
+        {
+            "gameTime": "2 - 25:59",
+            "label": "Throw-in",
+            "position": "1559500",
+            "half": "2",
+            "confidence": "0.24731102585792542"
+        },
+        {
+            "gameTime": "2 - 40:52",
+            "label": "Throw-in",
+            "position": "2452000",
+            "half": "2",
+            "confidence": "0.23722586035728455"
+        },
+        {
+            "gameTime": "2 - 36:25",
+            "label": "Throw-in",
+            "position": "2185000",
+            "half": "2",
+            "confidence": "0.23400814831256866"
+        },
+        {
+            "gameTime": "2 - 7:3",
+            "label": "Throw-in",
+            "position": "423000",
+            "half": "2",
+            "confidence": "0.22616133093833923"
+        },
+        {
+            "gameTime": "2 - 16:19",
+            "label": "Throw-in",
+            "position": "979000",
+            "half": "2",
+            "confidence": "0.21176829934120178"
+        },
+        {
+            "gameTime": "2 - 35:10",
+            "label": "Throw-in",
+            "position": "2110500",
+            "half": "2",
+            "confidence": "0.20102354884147644"
+        },
+        {
+            "gameTime": "2 - 8:15",
+            "label": "Throw-in",
+            "position": "495500",
+            "half": "2",
+            "confidence": "0.18664708733558655"
+        },
+        {
+            "gameTime": "2 - 30:16",
+            "label": "Throw-in",
+            "position": "1816000",
+            "half": "2",
+            "confidence": "0.17280475795269012"
+        },
+        {
+            "gameTime": "2 - 2:15",
+            "label": "Throw-in",
+            "position": "135500",
+            "half": "2",
+            "confidence": "0.1723141074180603"
+        },
+        {
+            "gameTime": "2 - 15:55",
+            "label": "Throw-in",
+            "position": "955500",
+            "half": "2",
+            "confidence": "0.1710997223854065"
+        },
+        {
+            "gameTime": "2 - 16:42",
+            "label": "Throw-in",
+            "position": "1002500",
+            "half": "2",
+            "confidence": "0.15742766857147217"
+        },
+        {
+            "gameTime": "2 - 35:45",
+            "label": "Throw-in",
+            "position": "2145000",
+            "half": "2",
+            "confidence": "0.13964088261127472"
+        },
+        {
+            "gameTime": "2 - 17:48",
+            "label": "Throw-in",
+            "position": "1068000",
+            "half": "2",
+            "confidence": "0.13788728415966034"
+        },
+        {
+            "gameTime": "2 - 3:46",
+            "label": "Throw-in",
+            "position": "226500",
+            "half": "2",
+            "confidence": "0.13344824314117432"
+        },
+        {
+            "gameTime": "2 - 29:25",
+            "label": "Throw-in",
+            "position": "1765000",
+            "half": "2",
+            "confidence": "0.12874262034893036"
+        },
+        {
+            "gameTime": "2 - 15:39",
+            "label": "Throw-in",
+            "position": "939000",
+            "half": "2",
+            "confidence": "0.1283021867275238"
+        },
+        {
+            "gameTime": "2 - 14:28",
+            "label": "Throw-in",
+            "position": "868500",
+            "half": "2",
+            "confidence": "0.12756240367889404"
+        },
+        {
+            "gameTime": "2 - 2:50",
+            "label": "Throw-in",
+            "position": "170500",
+            "half": "2",
+            "confidence": "0.12461462616920471"
+        },
+        {
+            "gameTime": "2 - 28:35",
+            "label": "Throw-in",
+            "position": "1715500",
+            "half": "2",
+            "confidence": "0.11795344948768616"
+        },
+        {
+            "gameTime": "2 - 9:27",
+            "label": "Throw-in",
+            "position": "567500",
+            "half": "2",
+            "confidence": "0.11458159238100052"
+        },
+        {
+            "gameTime": "2 - 6:28",
+            "label": "Throw-in",
+            "position": "388500",
+            "half": "2",
+            "confidence": "0.10468612611293793"
+        },
+        {
+            "gameTime": "2 - 38:37",
+            "label": "Throw-in",
+            "position": "2317000",
+            "half": "2",
+            "confidence": "0.10464230924844742"
+        },
+        {
+            "gameTime": "2 - 25:43",
+            "label": "Throw-in",
+            "position": "1543500",
+            "half": "2",
+            "confidence": "0.100655697286129"
+        },
+        {
+            "gameTime": "2 - 39:20",
+            "label": "Foul",
+            "position": "2360500",
+            "half": "2",
+            "confidence": "0.9460691809654236"
+        },
+        {
+            "gameTime": "2 - 34:9",
+            "label": "Foul",
+            "position": "2049500",
+            "half": "2",
+            "confidence": "0.8978714942932129"
+        },
+        {
+            "gameTime": "2 - 9:29",
+            "label": "Foul",
+            "position": "569000",
+            "half": "2",
+            "confidence": "0.8723355531692505"
+        },
+        {
+            "gameTime": "2 - 12:35",
+            "label": "Foul",
+            "position": "755000",
+            "half": "2",
+            "confidence": "0.7825223207473755"
+        },
+        {
+            "gameTime": "2 - 8:43",
+            "label": "Foul",
+            "position": "523500",
+            "half": "2",
+            "confidence": "0.7701283693313599"
+        },
+        {
+            "gameTime": "2 - 43:58",
+            "label": "Foul",
+            "position": "2638000",
+            "half": "2",
+            "confidence": "0.7111902236938477"
+        },
+        {
+            "gameTime": "2 - 19:20",
+            "label": "Foul",
+            "position": "1160000",
+            "half": "2",
+            "confidence": "0.5972897410392761"
+        },
+        {
+            "gameTime": "2 - 13:11",
+            "label": "Foul",
+            "position": "791000",
+            "half": "2",
+            "confidence": "0.5650425553321838"
+        },
+        {
+            "gameTime": "2 - 28:23",
+            "label": "Foul",
+            "position": "1703000",
+            "half": "2",
+            "confidence": "0.5075172185897827"
+        },
+        {
+            "gameTime": "2 - 15:38",
+            "label": "Foul",
+            "position": "938500",
+            "half": "2",
+            "confidence": "0.4638109505176544"
+        },
+        {
+            "gameTime": "2 - 24:51",
+            "label": "Foul",
+            "position": "1491500",
+            "half": "2",
+            "confidence": "0.44457781314849854"
+        },
+        {
+            "gameTime": "2 - 22:28",
+            "label": "Foul",
+            "position": "1348500",
+            "half": "2",
+            "confidence": "0.432226300239563"
+        },
+        {
+            "gameTime": "2 - 41:16",
+            "label": "Foul",
+            "position": "2476000",
+            "half": "2",
+            "confidence": "0.41154617071151733"
+        },
+        {
+            "gameTime": "2 - 26:10",
+            "label": "Foul",
+            "position": "1570500",
+            "half": "2",
+            "confidence": "0.3993566632270813"
+        },
+        {
+            "gameTime": "2 - 5:36",
+            "label": "Foul",
+            "position": "336500",
+            "half": "2",
+            "confidence": "0.3989752531051636"
+        },
+        {
+            "gameTime": "2 - 30:17",
+            "label": "Foul",
+            "position": "1817500",
+            "half": "2",
+            "confidence": "0.3040771782398224"
+        },
+        {
+            "gameTime": "2 - 21:5",
+            "label": "Foul",
+            "position": "1265000",
+            "half": "2",
+            "confidence": "0.2679090201854706"
+        },
+        {
+            "gameTime": "2 - 7:46",
+            "label": "Foul",
+            "position": "466000",
+            "half": "2",
+            "confidence": "0.2650917172431946"
+        },
+        {
+            "gameTime": "2 - 35:40",
+            "label": "Foul",
+            "position": "2140500",
+            "half": "2",
+            "confidence": "0.26353079080581665"
+        },
+        {
+            "gameTime": "2 - 38:25",
+            "label": "Foul",
+            "position": "2305000",
+            "half": "2",
+            "confidence": "0.2582436203956604"
+        },
+        {
+            "gameTime": "2 - 25:9",
+            "label": "Foul",
+            "position": "1509500",
+            "half": "2",
+            "confidence": "0.2554933428764343"
+        },
+        {
+            "gameTime": "2 - 26:36",
+            "label": "Foul",
+            "position": "1596000",
+            "half": "2",
+            "confidence": "0.23256802558898926"
+        },
+        {
+            "gameTime": "2 - 21:28",
+            "label": "Foul",
+            "position": "1288500",
+            "half": "2",
+            "confidence": "0.22917166352272034"
+        },
+        {
+            "gameTime": "2 - 28:38",
+            "label": "Foul",
+            "position": "1718000",
+            "half": "2",
+            "confidence": "0.22704623639583588"
+        },
+        {
+            "gameTime": "2 - 33:37",
+            "label": "Foul",
+            "position": "2017500",
+            "half": "2",
+            "confidence": "0.22250978648662567"
+        },
+        {
+            "gameTime": "2 - 8:5",
+            "label": "Foul",
+            "position": "485000",
+            "half": "2",
+            "confidence": "0.2224782258272171"
+        },
+        {
+            "gameTime": "2 - 42:18",
+            "label": "Foul",
+            "position": "2538500",
+            "half": "2",
+            "confidence": "0.19810640811920166"
+        },
+        {
+            "gameTime": "2 - 35:8",
+            "label": "Foul",
+            "position": "2108500",
+            "half": "2",
+            "confidence": "0.15863603353500366"
+        },
+        {
+            "gameTime": "2 - 39:46",
+            "label": "Foul",
+            "position": "2386500",
+            "half": "2",
+            "confidence": "0.15054960548877716"
+        },
+        {
+            "gameTime": "2 - 9:44",
+            "label": "Foul",
+            "position": "584000",
+            "half": "2",
+            "confidence": "0.14136652648448944"
+        },
+        {
+            "gameTime": "2 - 31:50",
+            "label": "Foul",
+            "position": "1910500",
+            "half": "2",
+            "confidence": "0.13480165600776672"
+        },
+        {
+            "gameTime": "2 - 18:14",
+            "label": "Foul",
+            "position": "1094500",
+            "half": "2",
+            "confidence": "0.1309235394001007"
+        },
+        {
+            "gameTime": "2 - 22:9",
+            "label": "Foul",
+            "position": "1329500",
+            "half": "2",
+            "confidence": "0.1306469738483429"
+        },
+        {
+            "gameTime": "2 - 11:10",
+            "label": "Foul",
+            "position": "670000",
+            "half": "2",
+            "confidence": "0.12052525579929352"
+        },
+        {
+            "gameTime": "2 - 15:11",
+            "label": "Foul",
+            "position": "911000",
+            "half": "2",
+            "confidence": "0.11534441262483597"
+        },
+        {
+            "gameTime": "2 - 35:23",
+            "label": "Foul",
+            "position": "2123500",
+            "half": "2",
+            "confidence": "0.11185170710086823"
+        },
+        {
+            "gameTime": "2 - 19:57",
+            "label": "Foul",
+            "position": "1197000",
+            "half": "2",
+            "confidence": "0.1112530454993248"
+        },
+        {
+            "gameTime": "2 - 2:39",
+            "label": "Foul",
+            "position": "159000",
+            "half": "2",
+            "confidence": "0.11055593937635422"
+        },
+        {
+            "gameTime": "2 - 44:24",
+            "label": "Foul",
+            "position": "2664000",
+            "half": "2",
+            "confidence": "0.10884591192007065"
+        },
+        {
+            "gameTime": "2 - 7:17",
+            "label": "Foul",
+            "position": "437000",
+            "half": "2",
+            "confidence": "0.10591139644384384"
+        },
+        {
+            "gameTime": "2 - 5:51",
+            "label": "Foul",
+            "position": "351500",
+            "half": "2",
+            "confidence": "0.10303299874067307"
+        },
+        {
+            "gameTime": "2 - 17:54",
+            "label": "Foul",
+            "position": "1074500",
+            "half": "2",
+            "confidence": "0.10203468054533005"
+        },
+        {
+            "gameTime": "2 - 39:45",
+            "label": "Indirect free-kick",
+            "position": "2385500",
+            "half": "2",
+            "confidence": "0.6342028975486755"
+        },
+        {
+            "gameTime": "2 - 22:7",
+            "label": "Indirect free-kick",
+            "position": "1327000",
+            "half": "2",
+            "confidence": "0.3804391324520111"
+        },
+        {
+            "gameTime": "2 - 35:42",
+            "label": "Indirect free-kick",
+            "position": "2142500",
+            "half": "2",
+            "confidence": "0.26641857624053955"
+        },
+        {
+            "gameTime": "2 - 9:42",
+            "label": "Indirect free-kick",
+            "position": "582500",
+            "half": "2",
+            "confidence": "0.2601078450679779"
+        },
+        {
+            "gameTime": "2 - 12:40",
+            "label": "Indirect free-kick",
+            "position": "760000",
+            "half": "2",
+            "confidence": "0.25746288895606995"
+        },
+        {
+            "gameTime": "2 - 9:26",
+            "label": "Indirect free-kick",
+            "position": "566500",
+            "half": "2",
+            "confidence": "0.24752177298069"
+        },
+        {
+            "gameTime": "2 - 25:19",
+            "label": "Indirect free-kick",
+            "position": "1519500",
+            "half": "2",
+            "confidence": "0.23223276436328888"
+        },
+        {
+            "gameTime": "2 - 22:31",
+            "label": "Indirect free-kick",
+            "position": "1351500",
+            "half": "2",
+            "confidence": "0.21867793798446655"
+        },
+        {
+            "gameTime": "2 - 25:0",
+            "label": "Indirect free-kick",
+            "position": "1500000",
+            "half": "2",
+            "confidence": "0.21298792958259583"
+        },
+        {
+            "gameTime": "2 - 1:23",
+            "label": "Indirect free-kick",
+            "position": "83500",
+            "half": "2",
+            "confidence": "0.20116731524467468"
+        },
+        {
+            "gameTime": "2 - 35:16",
+            "label": "Indirect free-kick",
+            "position": "2116000",
+            "half": "2",
+            "confidence": "0.19455359876155853"
+        },
+        {
+            "gameTime": "2 - 8:55",
+            "label": "Indirect free-kick",
+            "position": "535500",
+            "half": "2",
+            "confidence": "0.18761500716209412"
+        },
+        {
+            "gameTime": "2 - 29:14",
+            "label": "Indirect free-kick",
+            "position": "1754500",
+            "half": "2",
+            "confidence": "0.1780526041984558"
+        },
+        {
+            "gameTime": "2 - 2:49",
+            "label": "Indirect free-kick",
+            "position": "169000",
+            "half": "2",
+            "confidence": "0.1713269203901291"
+        },
+        {
+            "gameTime": "2 - 30:51",
+            "label": "Indirect free-kick",
+            "position": "1851000",
+            "half": "2",
+            "confidence": "0.16599208116531372"
+        },
+        {
+            "gameTime": "2 - 42:1",
+            "label": "Indirect free-kick",
+            "position": "2521500",
+            "half": "2",
+            "confidence": "0.1617744117975235"
+        },
+        {
+            "gameTime": "2 - 40:2",
+            "label": "Indirect free-kick",
+            "position": "2402000",
+            "half": "2",
+            "confidence": "0.16032494604587555"
+        },
+        {
+            "gameTime": "2 - 15:55",
+            "label": "Indirect free-kick",
+            "position": "955000",
+            "half": "2",
+            "confidence": "0.1553112119436264"
+        },
+        {
+            "gameTime": "2 - 5:49",
+            "label": "Indirect free-kick",
+            "position": "349000",
+            "half": "2",
+            "confidence": "0.1546865701675415"
+        },
+        {
+            "gameTime": "2 - 26:26",
+            "label": "Indirect free-kick",
+            "position": "1586500",
+            "half": "2",
+            "confidence": "0.15034450590610504"
+        },
+        {
+            "gameTime": "2 - 13:7",
+            "label": "Indirect free-kick",
+            "position": "787000",
+            "half": "2",
+            "confidence": "0.13124439120292664"
+        },
+        {
+            "gameTime": "2 - 0:56",
+            "label": "Indirect free-kick",
+            "position": "56000",
+            "half": "2",
+            "confidence": "0.13019968569278717"
+        },
+        {
+            "gameTime": "2 - 36:32",
+            "label": "Indirect free-kick",
+            "position": "2192500",
+            "half": "2",
+            "confidence": "0.11956413090229034"
+        },
+        {
+            "gameTime": "2 - 42:16",
+            "label": "Indirect free-kick",
+            "position": "2536500",
+            "half": "2",
+            "confidence": "0.10597312450408936"
+        },
+        {
+            "gameTime": "2 - 9:26",
+            "label": "Direct free-kick",
+            "position": "566500",
+            "half": "2",
+            "confidence": "0.8506431579589844"
+        },
+        {
+            "gameTime": "2 - 40:2",
+            "label": "Direct free-kick",
+            "position": "2402000",
+            "half": "2",
+            "confidence": "0.6885901689529419"
+        },
+        {
+            "gameTime": "2 - 20:31",
+            "label": "Direct free-kick",
+            "position": "1231500",
+            "half": "2",
+            "confidence": "0.36050915718078613"
+        },
+        {
+            "gameTime": "2 - 8:52",
+            "label": "Direct free-kick",
+            "position": "532500",
+            "half": "2",
+            "confidence": "0.34447765350341797"
+        },
+        {
+            "gameTime": "2 - 22:36",
+            "label": "Direct free-kick",
+            "position": "1356000",
+            "half": "2",
+            "confidence": "0.331853449344635"
+        },
+        {
+            "gameTime": "2 - 29:19",
+            "label": "Direct free-kick",
+            "position": "1759500",
+            "half": "2",
+            "confidence": "0.2930004298686981"
+        },
+        {
+            "gameTime": "2 - 39:44",
+            "label": "Direct free-kick",
+            "position": "2384500",
+            "half": "2",
+            "confidence": "0.2910381555557251"
+        },
+        {
+            "gameTime": "2 - 37:24",
+            "label": "Direct free-kick",
+            "position": "2244000",
+            "half": "2",
+            "confidence": "0.290102481842041"
+        },
+        {
+            "gameTime": "2 - 13:9",
+            "label": "Direct free-kick",
+            "position": "789000",
+            "half": "2",
+            "confidence": "0.27691757678985596"
+        },
+        {
+            "gameTime": "2 - 36:34",
+            "label": "Direct free-kick",
+            "position": "2194500",
+            "half": "2",
+            "confidence": "0.2658868134021759"
+        },
+        {
+            "gameTime": "2 - 37:49",
+            "label": "Direct free-kick",
+            "position": "2269500",
+            "half": "2",
+            "confidence": "0.2638013958930969"
+        },
+        {
+            "gameTime": "2 - 24:9",
+            "label": "Direct free-kick",
+            "position": "1449000",
+            "half": "2",
+            "confidence": "0.22425197064876556"
+        },
+        {
+            "gameTime": "2 - 0:56",
+            "label": "Direct free-kick",
+            "position": "56000",
+            "half": "2",
+            "confidence": "0.2239256054162979"
+        },
+        {
+            "gameTime": "2 - 18:30",
+            "label": "Direct free-kick",
+            "position": "1110000",
+            "half": "2",
+            "confidence": "0.2076415866613388"
+        },
+        {
+            "gameTime": "2 - 22:7",
+            "label": "Direct free-kick",
+            "position": "1327000",
+            "half": "2",
+            "confidence": "0.20479269325733185"
+        },
+        {
+            "gameTime": "2 - 44:16",
+            "label": "Direct free-kick",
+            "position": "2656500",
+            "half": "2",
+            "confidence": "0.19537250697612762"
+        },
+        {
+            "gameTime": "2 - 16:1",
+            "label": "Direct free-kick",
+            "position": "961500",
+            "half": "2",
+            "confidence": "0.190399631857872"
+        },
+        {
+            "gameTime": "2 - 44:1",
+            "label": "Direct free-kick",
+            "position": "2641000",
+            "half": "2",
+            "confidence": "0.18094873428344727"
+        },
+        {
+            "gameTime": "2 - 27:3",
+            "label": "Direct free-kick",
+            "position": "1623500",
+            "half": "2",
+            "confidence": "0.18025554716587067"
+        },
+        {
+            "gameTime": "2 - 25:19",
+            "label": "Direct free-kick",
+            "position": "1519500",
+            "half": "2",
+            "confidence": "0.14103259146213531"
+        },
+        {
+            "gameTime": "2 - 7:37",
+            "label": "Direct free-kick",
+            "position": "457500",
+            "half": "2",
+            "confidence": "0.13247038424015045"
+        },
+        {
+            "gameTime": "2 - 6:34",
+            "label": "Direct free-kick",
+            "position": "394500",
+            "half": "2",
+            "confidence": "0.12695567309856415"
+        },
+        {
+            "gameTime": "2 - 12:43",
+            "label": "Direct free-kick",
+            "position": "763000",
+            "half": "2",
+            "confidence": "0.12363827973604202"
+        },
+        {
+            "gameTime": "2 - 5:17",
+            "label": "Direct free-kick",
+            "position": "317500",
+            "half": "2",
+            "confidence": "0.12347324192523956"
+        },
+        {
+            "gameTime": "2 - 34:44",
+            "label": "Direct free-kick",
+            "position": "2084000",
+            "half": "2",
+            "confidence": "0.1207771822810173"
+        },
+        {
+            "gameTime": "2 - 17:15",
+            "label": "Direct free-kick",
+            "position": "1035000",
+            "half": "2",
+            "confidence": "0.11557100713253021"
+        },
+        {
+            "gameTime": "2 - 26:20",
+            "label": "Direct free-kick",
+            "position": "1580500",
+            "half": "2",
+            "confidence": "0.11534536629915237"
+        },
+        {
+            "gameTime": "2 - 16:47",
+            "label": "Direct free-kick",
+            "position": "1007000",
+            "half": "2",
+            "confidence": "0.11049192398786545"
+        },
+        {
+            "gameTime": "2 - 35:16",
+            "label": "Direct free-kick",
+            "position": "2116500",
+            "half": "2",
+            "confidence": "0.1088888868689537"
+        },
+        {
+            "gameTime": "2 - 35:44",
+            "label": "Direct free-kick",
+            "position": "2144000",
+            "half": "2",
+            "confidence": "0.10687205195426941"
+        },
+        {
+            "gameTime": "2 - 1:35",
+            "label": "Direct free-kick",
+            "position": "95000",
+            "half": "2",
+            "confidence": "0.10666101425886154"
+        },
+        {
+            "gameTime": "2 - 23:7",
+            "label": "Direct free-kick",
+            "position": "1387500",
+            "half": "2",
+            "confidence": "0.10486113280057907"
+        },
+        {
+            "gameTime": "2 - 1:19",
+            "label": "Direct free-kick",
+            "position": "79500",
+            "half": "2",
+            "confidence": "0.1031329408288002"
+        },
+        {
+            "gameTime": "2 - 27:8",
+            "label": "Corner",
+            "position": "1628500",
+            "half": "2",
+            "confidence": "0.9968417882919312"
+        },
+        {
+            "gameTime": "2 - 29:40",
+            "label": "Corner",
+            "position": "1780000",
+            "half": "2",
+            "confidence": "0.9962913990020752"
+        },
+        {
+            "gameTime": "2 - 16:42",
+            "label": "Corner",
+            "position": "1002500",
+            "half": "2",
+            "confidence": "0.9957369565963745"
+        },
+        {
+            "gameTime": "2 - 17:35",
+            "label": "Corner",
+            "position": "1055000",
+            "half": "2",
+            "confidence": "0.9920302629470825"
+        },
+        {
+            "gameTime": "2 - 29:56",
+            "label": "Corner",
+            "position": "1796500",
+            "half": "2",
+            "confidence": "0.9655736088752747"
+        },
+        {
+            "gameTime": "2 - 43:34",
+            "label": "Corner",
+            "position": "2614000",
+            "half": "2",
+            "confidence": "0.9223858714103699"
+        },
+        {
+            "gameTime": "2 - 37:19",
+            "label": "Corner",
+            "position": "2239500",
+            "half": "2",
+            "confidence": "0.915544331073761"
+        },
+        {
+            "gameTime": "2 - 29:21",
+            "label": "Corner",
+            "position": "1761500",
+            "half": "2",
+            "confidence": "0.49451765418052673"
+        },
+        {
+            "gameTime": "2 - 40:44",
+            "label": "Corner",
+            "position": "2444500",
+            "half": "2",
+            "confidence": "0.47858279943466187"
+        },
+        {
+            "gameTime": "2 - 20:4",
+            "label": "Corner",
+            "position": "1204500",
+            "half": "2",
+            "confidence": "0.37423059344291687"
+        },
+        {
+            "gameTime": "2 - 20:44",
+            "label": "Corner",
+            "position": "1244000",
+            "half": "2",
+            "confidence": "0.37024328112602234"
+        },
+        {
+            "gameTime": "2 - 17:8",
+            "label": "Corner",
+            "position": "1028000",
+            "half": "2",
+            "confidence": "0.3102622330188751"
+        },
+        {
+            "gameTime": "2 - 9:20",
+            "label": "Corner",
+            "position": "560000",
+            "half": "2",
+            "confidence": "0.2838450074195862"
+        },
+        {
+            "gameTime": "2 - 1:0",
+            "label": "Corner",
+            "position": "60000",
+            "half": "2",
+            "confidence": "0.10969855636358261"
+        },
+        {
+            "gameTime": "2 - 34:15",
+            "label": "Yellow card",
+            "position": "2055500",
+            "half": "2",
+            "confidence": "0.9043164253234863"
+        },
+        {
+            "gameTime": "2 - 39:30",
+            "label": "Yellow card",
+            "position": "2370500",
+            "half": "2",
+            "confidence": "0.8359973430633545"
+        },
+        {
+            "gameTime": "2 - 21:9",
+            "label": "Yellow card",
+            "position": "1269500",
+            "half": "2",
+            "confidence": "0.42007389664649963"
+        },
+        {
+            "gameTime": "2 - 9:30",
+            "label": "Yellow card",
+            "position": "570500",
+            "half": "2",
+            "confidence": "0.22690686583518982"
+        },
+        {
+            "gameTime": "2 - 19:35",
+            "label": "Yellow card",
+            "position": "1175500",
+            "half": "2",
+            "confidence": "0.21875685453414917"
+        },
+        {
+            "gameTime": "2 - 12:46",
+            "label": "Yellow card",
+            "position": "766500",
+            "half": "2",
+            "confidence": "0.16895084083080292"
+        },
+        {
+            "gameTime": "2 - 30:18",
+            "label": "Yellow card",
+            "position": "1818500",
+            "half": "2",
+            "confidence": "0.11641757190227509"
+        },
+        {
+            "gameTime": "2 - 41:15",
+            "label": "Yellow card",
+            "position": "2475500",
+            "half": "2",
+            "confidence": "0.108158178627491"
+        }
+    ]
+}

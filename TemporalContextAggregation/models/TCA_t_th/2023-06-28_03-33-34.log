@@ -1,0 +1,34 @@
+2023-06-28 03:33:34,497 [MainThread  ] [INFO ]  Starting main function
+2023-06-28 03:33:34,497 [MainThread  ] [INFO ]  Parameters:
+2023-06-28 03:33:34,498 [MainThread  ] [INFO ]   SoccerNet_path : ../../Data/
+2023-06-28 03:33:34,498 [MainThread  ] [INFO ]         features : ResNET_TF2_PCA512.npy
+2023-06-28 03:33:34,498 [MainThread  ] [INFO ]       max_epochs : 500
+2023-06-28 03:33:34,498 [MainThread  ] [INFO ]     load_weights : None
+2023-06-28 03:33:34,498 [MainThread  ] [INFO ]       model_name : TCA_t_th
+2023-06-28 03:33:34,498 [MainThread  ] [INFO ]        test_only : False
+2023-06-28 03:33:34,498 [MainThread  ] [INFO ]      split_train : ['train']
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]      split_valid : ['valid']
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]       split_test : ['test']
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]          version : 2
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]      feature_dim : None
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]        framerate : 2
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]      window_size : 20
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]             pool : TCA
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]     vlad_cluster : 64
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]       NMS_window : 10
+2023-06-28 03:33:34,499 [MainThread  ] [INFO ]    NMS_threshold : 0.0
+2023-06-28 03:33:34,500 [MainThread  ] [INFO ]       batch_size : 256
+2023-06-28 03:33:34,500 [MainThread  ] [INFO ]               LR : 0.001
+2023-06-28 03:33:34,500 [MainThread  ] [INFO ]              LRe : 1e-06
+2023-06-28 03:33:34,500 [MainThread  ] [INFO ]         patience : 10
+2023-06-28 03:33:34,500 [MainThread  ] [INFO ]              GPU : 3
+2023-06-28 03:33:34,500 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-06-28 03:33:34,500 [MainThread  ] [INFO ]             seed : 0
+2023-06-28 03:33:34,501 [MainThread  ] [INFO ]         loglevel : INFO
+2023-06-28 03:33:34,503 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-28 03:33:35,535 [MainThread  ] [INFO ]  Pre-compute clips
+2023-06-28 03:34:38,888 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-28 03:34:39,308 [MainThread  ] [INFO ]  Pre-compute clips
+2023-06-28 03:34:51,057 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-28 03:34:51,461 [MainThread  ] [INFO ]  Pre-compute clips

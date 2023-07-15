@@ -1,0 +1,71 @@
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]  Starting main function
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]  Parameters:
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]   SoccerNet_path : ../../Data/
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]         features : ResNET_TF2_PCA512.npy
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]       max_epochs : 500
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]     load_weights : None
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]       model_name : TCA_t30_th0.3
+2023-06-30 07:16:05,427 [MainThread  ] [INFO ]        test_only : False
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]      split_train : ['train']
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]      split_valid : ['valid']
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]       split_test : ['test']
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]          version : 2
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]      feature_dim : None
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]        framerate : 2
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]      window_size : 20
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]             pool : TCA
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]     vlad_cluster : 64
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]       NMS_window : 30
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]    NMS_threshold : 0.3
+2023-06-30 07:16:05,428 [MainThread  ] [INFO ]       batch_size : 256
+2023-06-30 07:16:05,429 [MainThread  ] [INFO ]               LR : 0.001
+2023-06-30 07:16:05,429 [MainThread  ] [INFO ]              LRe : 1e-06
+2023-06-30 07:16:05,429 [MainThread  ] [INFO ]         patience : 10
+2023-06-30 07:16:05,429 [MainThread  ] [INFO ]              GPU : 3
+2023-06-30 07:16:05,429 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-06-30 07:16:05,429 [MainThread  ] [INFO ]             seed : 0
+2023-06-30 07:16:05,429 [MainThread  ] [INFO ]         loglevel : INFO
+2023-06-30 07:16:05,431 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-30 07:16:06,316 [MainThread  ] [INFO ]  Pre-compute clips
+2023-06-30 07:16:27,563 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-30 07:16:27,841 [MainThread  ] [INFO ]  Pre-compute clips
+2023-06-30 07:17:04,321 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-30 07:17:04,546 [MainThread  ] [INFO ]  Pre-compute clips
+2023-06-30 07:17:29,974 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-30 07:17:35,242 [MainThread  ] [INFO ]  Model(
+  (pool_layer_before): NetVLAD()
+  (pool_layer_after): NetVLAD()
+  (fc): Linear(in_features=32768, out_features=18, bias=True)
+  (drop): Dropout(p=0.4, inplace=False)
+  (sigm): Sigmoid()
+)
+2023-06-30 07:17:35,243 [MainThread  ] [INFO ]  Total number of parameters: 655378
+2023-06-30 07:17:35,243 [MainThread  ] [INFO ]  start training
+2023-06-30 07:20:34,887 [MainThread  ] [INFO ]  Validation performance at epoch 11 -> 0.3335255974443864
+2023-06-30 07:23:17,057 [MainThread  ] [INFO ]  Validation performance at epoch 21 -> 0.3785044834444045
+2023-06-30 07:25:51,998 [MainThread  ] [INFO ]  Validation performance at epoch 31 -> 0.39931146761529696
+2023-06-30 07:28:26,090 [MainThread  ] [INFO ]  Validation performance at epoch 41 -> 0.4110434244689486
+2023-06-30 07:31:04,768 [MainThread  ] [INFO ]  Validation performance at epoch 51 -> 0.4184339297637264
+2023-06-30 07:33:41,479 [MainThread  ] [INFO ]  Validation performance at epoch 61 -> 0.421947623336579
+2023-06-30 07:36:19,985 [MainThread  ] [INFO ]  Validation performance at epoch 71 -> 0.4266731848519271
+2023-06-30 07:36:36,056 [MainThread  ] [INFO ]  Plateau Reached!
+2023-06-30 07:38:57,554 [MainThread  ] [INFO ]  Validation performance at epoch 81 -> 0.4272273154351355
+2023-06-30 07:39:59,150 [MainThread  ] [INFO ]  Plateau Reached!
+2023-06-30 07:41:36,614 [MainThread  ] [INFO ]  Validation performance at epoch 91 -> 0.4277821892598555
+2023-06-30 07:42:53,598 [MainThread  ] [INFO ]  Plateau Reached!
+2023-06-30 07:44:12,639 [MainThread  ] [INFO ]  Validation performance at epoch 101 -> 0.4280942200746838
+2023-06-30 07:45:45,585 [MainThread  ] [INFO ]  Plateau Reached!
+2023-06-30 07:46:50,853 [MainThread  ] [INFO ]  Validation performance at epoch 111 -> 0.4280819598685051
+2023-06-30 07:48:39,847 [MainThread  ] [INFO ]  Plateau Reached!
+2023-06-30 07:49:31,956 [MainThread  ] [INFO ]  Validation performance at epoch 121 -> 0.4280828245721177
+2023-06-30 07:51:20,775 [MainThread  ] [INFO ]  Plateau Reached and no more reduction -> Exiting Loop
+2023-06-30 07:51:21,118 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-06-30 07:54:19,878 [MainThread  ] [INFO ]  Best Performance at end of training 
+2023-06-30 07:54:19,878 [MainThread  ] [INFO ]  a_mAP visibility all: 0.47606499165296384
+2023-06-30 07:54:19,879 [MainThread  ] [INFO ]  a_mAP visibility all per class: [0.6195222660814889, 0.5770113970229375, 0.6969434204103683, 0.668472759625266, 0.3208063706142748, 0.3087689830248182, 0.30882242737367777, 0.4945427907278882, 0.6635729388065177, 0.5973857982224217, 0.5914987868604263, 0.3728896318772636, 0.5053883336027778, 0.7685293765765223, 0.45845370950513975, 0.14049586776859505, 0.0]
+2023-06-30 07:54:19,879 [MainThread  ] [INFO ]  a_mAP visibility visible: 0.5013027361726159
+2023-06-30 07:54:19,879 [MainThread  ] [INFO ]  a_mAP visibility visible per class: [0.6616245641003032, 0.6416720930711196, 0.7067251924475372, 0.7331486577022823, 0.33660987101117934, 0.3111301294621375, 0.3109501840084903, 0.6251663317608221, 0.665844012057743, 0.6230246577721711, 0.5941117324626787, 0.3332679354848526, 0.5708555452482332, 0.7764916131630835, 0.49102812741324214, 0.14049586776859505, 0.0]
+2023-06-30 07:54:19,879 [MainThread  ] [INFO ]  a_mAP visibility unshown: 0.3082102484288489
+2023-06-30 07:54:19,879 [MainThread  ] [INFO ]  a_mAP visibility unshown per class: [0.0, 0.5342745617585746, 0.0, 0.30264894879459, 0.1752295684113866, 0.0, 0.0, 0.3707477785800131, 0.5730284275108035, 0.5216934998330481, 0.35371168413882004, 0.43499133070428314, 0.003818316071280497, 0.68384339802747, 0.05274571574476674, 0.0, 0.0]
+2023-06-30 07:54:19,880 [MainThread  ] [INFO ]  Total Execution Time is 2294.4534792900085 seconds

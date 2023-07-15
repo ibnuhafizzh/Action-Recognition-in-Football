@@ -1,0 +1,44 @@
+2023-07-09 10:16:22,165 [MainThread  ] [INFO ]  Starting main function
+2023-07-09 10:16:22,165 [MainThread  ] [INFO ]  Parameters:
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]   SoccerNet_path : ../../Data/
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]         features : ResNET_TF2_PCA512.npy
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]       max_epochs : 500
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]     load_weights : None
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]       model_name : TCA_t30_th1
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]        test_only : False
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]      split_train : ['train']
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]      split_valid : ['valid']
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]       split_test : ['test']
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]          version : 2
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]      feature_dim : None
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2023-07-09 10:16:22,166 [MainThread  ] [INFO ]        framerate : 2
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]      window_size : 20
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]             pool : TCA
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]     vlad_cluster : 64
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]       NMS_window : 30
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]    NMS_threshold : 0.1
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]       batch_size : 256
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]               LR : 0.001
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]              LRe : 1e-06
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]         patience : 10
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]              GPU : 3
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-07-09 10:16:22,167 [MainThread  ] [INFO ]             seed : 0
+2023-07-09 10:16:22,168 [MainThread  ] [INFO ]         loglevel : INFO
+2023-07-09 10:16:22,169 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-07-09 10:16:23,070 [MainThread  ] [INFO ]  Pre-compute clips
+2023-07-09 10:16:31,646 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-07-09 10:16:31,937 [MainThread  ] [INFO ]  Pre-compute clips
+2023-07-09 10:16:34,685 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-07-09 10:16:34,974 [MainThread  ] [INFO ]  Pre-compute clips
+2023-07-09 10:16:38,018 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2023-07-09 10:16:42,310 [MainThread  ] [INFO ]  Model(
+  (pool_layer_before): NetVLAD()
+  (pool_layer_after): NetVLAD()
+  (fc): Linear(in_features=32768, out_features=18, bias=True)
+  (drop): Dropout(p=0.4, inplace=False)
+  (sigm): Sigmoid()
+)
+2023-07-09 10:16:42,311 [MainThread  ] [INFO ]  Total number of parameters: 655378
+2023-07-09 10:16:42,312 [MainThread  ] [INFO ]  start training
