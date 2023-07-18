@@ -1,0 +1,37 @@
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]  Starting main function
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]  Parameters:
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]       video_path : /Users/ibnuhafizh/Downloads/1_224p.mp4
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]         features : ResNET_TF2_PCA512.npy
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]       max_epochs : 1000
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]     load_weights : None
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]       model_name : TCA
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]        test_only : False
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]     num_features : 512
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]  evaluation_frequency : 20
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]        framerate : 2
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]  loss_weight_detection : 1.0
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]      window_size : 20
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]             pool : NetVLAD++
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]     vlad_cluster : 64
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]       batch_size : 256
+2023-06-30 10:25:13,120 [MainThread  ] [INFO ]               LR : 0.001
+2023-06-30 10:25:13,121 [MainThread  ] [INFO ]         patience : 25
+2023-06-30 10:25:13,121 [MainThread  ] [INFO ]              GPU : -1
+2023-06-30 10:25:13,121 [MainThread  ] [INFO ]   max_num_worker : 4
+2023-06-30 10:25:13,121 [MainThread  ] [INFO ]         loglevel : INFO
+2023-06-30 10:26:16,393 [MainThread  ] [INFO ]  extracting features for video inference/outputs/videoLQ.mkv
+2023-06-30 10:26:31,428 [MainThread  ] [INFO ]  frames (5626, 224, 224, 3), fps=1.9999857804068226
+2023-06-30 10:28:22,592 [MainThread  ] [INFO ]  features (5626, 2048), fps=1.9999857804068226
+2023-06-30 10:28:22,702 [MainThread  ] [WARNI]  /Users/ibnuhafizh/opt/anaconda3/envs/CALF-pytorch/lib/python3.8/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator PCA from version 0.23.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-30 10:28:22,703 [MainThread  ] [INFO ]  reducing features inference/outputs/features.npy
+2023-06-30 10:28:22,884 [MainThread  ] [INFO ]  Model(
+  (pool_layer_before): NetVLAD()
+  (pool_layer_after): NetVLAD()
+  (fc): Linear(in_features=32768, out_features=18, bias=True)
+  (drop): Dropout(p=0.4, inplace=False)
+  (sigm): Sigmoid()
+)
+2023-06-30 10:28:22,884 [MainThread  ] [INFO ]  Total number of parameters: 655378
